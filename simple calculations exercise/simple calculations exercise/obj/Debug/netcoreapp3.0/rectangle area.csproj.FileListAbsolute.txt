@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\bin\Debug\netcoreapp3.0\rectangle area.exe
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\bin\Debug\netcoreapp3.0\rectangle area.deps.json
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\bin\Debug\netcoreapp3.0\rectangle area.runtimeconfig.json
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\bin\Debug\netcoreapp3.0\rectangle area.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\bin\Debug\netcoreapp3.0\rectangle area.dll
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\bin\Debug\netcoreapp3.0\rectangle area.pdb
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\obj\Debug\netcoreapp3.0\rectangle area.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\obj\Debug\netcoreapp3.0\rectangle area.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\obj\Debug\netcoreapp3.0\rectangle area.AssemblyInfo.cs
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\obj\Debug\netcoreapp3.0\rectangle area.dll
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\obj\Debug\netcoreapp3.0\rectangle area.pdb

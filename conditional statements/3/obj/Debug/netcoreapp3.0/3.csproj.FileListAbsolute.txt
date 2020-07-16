@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\conditional statements\3\obj\Debug\netcoreapp3.0\3.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\conditional statements\3\obj\Debug\netcoreapp3.0\3.AssemblyInfo.cs
+C:\Users\Xan\source\repos\conditional statements\3\bin\Debug\netcoreapp3.0\3.exe
+C:\Users\Xan\source\repos\conditional statements\3\bin\Debug\netcoreapp3.0\3.deps.json
+C:\Users\Xan\source\repos\conditional statements\3\bin\Debug\netcoreapp3.0\3.runtimeconfig.json
+C:\Users\Xan\source\repos\conditional statements\3\bin\Debug\netcoreapp3.0\3.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\conditional statements\3\bin\Debug\netcoreapp3.0\3.dll
+C:\Users\Xan\source\repos\conditional statements\3\bin\Debug\netcoreapp3.0\3.pdb
+C:\Users\Xan\source\repos\conditional statements\3\obj\Debug\netcoreapp3.0\3.dll
+C:\Users\Xan\source\repos\conditional statements\3\obj\Debug\netcoreapp3.0\3.pdb

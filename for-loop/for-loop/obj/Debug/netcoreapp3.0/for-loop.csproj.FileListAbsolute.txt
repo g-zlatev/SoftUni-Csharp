@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\for-loop\for-loop\bin\Debug\netcoreapp3.0\for-loop.exe
+C:\Users\Xan\source\repos\for-loop\for-loop\bin\Debug\netcoreapp3.0\for-loop.deps.json
+C:\Users\Xan\source\repos\for-loop\for-loop\bin\Debug\netcoreapp3.0\for-loop.runtimeconfig.json
+C:\Users\Xan\source\repos\for-loop\for-loop\bin\Debug\netcoreapp3.0\for-loop.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\for-loop\for-loop\bin\Debug\netcoreapp3.0\for-loop.dll
+C:\Users\Xan\source\repos\for-loop\for-loop\bin\Debug\netcoreapp3.0\for-loop.pdb
+C:\Users\Xan\source\repos\for-loop\for-loop\obj\Debug\netcoreapp3.0\for-loop.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\for-loop\for-loop\obj\Debug\netcoreapp3.0\for-loop.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\for-loop\for-loop\obj\Debug\netcoreapp3.0\for-loop.AssemblyInfo.cs
+C:\Users\Xan\source\repos\for-loop\for-loop\obj\Debug\netcoreapp3.0\for-loop.dll
+C:\Users\Xan\source\repos\for-loop\for-loop\obj\Debug\netcoreapp3.0\for-loop.pdb

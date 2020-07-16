@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\rageexpenses\rageexpenses\bin\Debug\netcoreapp3.1\rageexpenses.exe
+C:\Users\Xan\source\repos\rageexpenses\rageexpenses\bin\Debug\netcoreapp3.1\rageexpenses.deps.json
+C:\Users\Xan\source\repos\rageexpenses\rageexpenses\bin\Debug\netcoreapp3.1\rageexpenses.runtimeconfig.json
+C:\Users\Xan\source\repos\rageexpenses\rageexpenses\bin\Debug\netcoreapp3.1\rageexpenses.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\rageexpenses\rageexpenses\bin\Debug\netcoreapp3.1\rageexpenses.dll
+C:\Users\Xan\source\repos\rageexpenses\rageexpenses\bin\Debug\netcoreapp3.1\rageexpenses.pdb
+C:\Users\Xan\source\repos\rageexpenses\rageexpenses\obj\Debug\netcoreapp3.1\rageexpenses.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\rageexpenses\rageexpenses\obj\Debug\netcoreapp3.1\rageexpenses.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\rageexpenses\rageexpenses\obj\Debug\netcoreapp3.1\rageexpenses.AssemblyInfo.cs
+C:\Users\Xan\source\repos\rageexpenses\rageexpenses\obj\Debug\netcoreapp3.1\rageexpenses.dll
+C:\Users\Xan\source\repos\rageexpenses\rageexpenses\obj\Debug\netcoreapp3.1\rageexpenses.pdb

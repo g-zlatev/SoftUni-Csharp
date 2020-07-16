@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\exam test\exam test\bin\Debug\netcoreapp3.0\Sea_trip.exe
+C:\Users\Xan\source\repos\exam test\exam test\bin\Debug\netcoreapp3.0\Sea_trip.deps.json
+C:\Users\Xan\source\repos\exam test\exam test\bin\Debug\netcoreapp3.0\Sea_trip.runtimeconfig.json
+C:\Users\Xan\source\repos\exam test\exam test\bin\Debug\netcoreapp3.0\Sea_trip.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\exam test\exam test\bin\Debug\netcoreapp3.0\Sea_trip.dll
+C:\Users\Xan\source\repos\exam test\exam test\bin\Debug\netcoreapp3.0\Sea_trip.pdb
+C:\Users\Xan\source\repos\exam test\exam test\obj\Debug\netcoreapp3.0\Sea_trip.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\exam test\exam test\obj\Debug\netcoreapp3.0\Sea_trip.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\exam test\exam test\obj\Debug\netcoreapp3.0\Sea_trip.AssemblyInfo.cs
+C:\Users\Xan\source\repos\exam test\exam test\obj\Debug\netcoreapp3.0\Sea_trip.dll
+C:\Users\Xan\source\repos\exam test\exam test\obj\Debug\netcoreapp3.0\Sea_trip.pdb

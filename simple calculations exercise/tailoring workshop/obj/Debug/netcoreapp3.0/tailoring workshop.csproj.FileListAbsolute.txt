@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\simple calculations exercise\tailoring workshop\bin\Debug\netcoreapp3.0\tailoring workshop.exe
+C:\Users\Xan\source\repos\simple calculations exercise\tailoring workshop\bin\Debug\netcoreapp3.0\tailoring workshop.deps.json
+C:\Users\Xan\source\repos\simple calculations exercise\tailoring workshop\bin\Debug\netcoreapp3.0\tailoring workshop.runtimeconfig.json
+C:\Users\Xan\source\repos\simple calculations exercise\tailoring workshop\bin\Debug\netcoreapp3.0\tailoring workshop.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\simple calculations exercise\tailoring workshop\bin\Debug\netcoreapp3.0\tailoring workshop.dll
+C:\Users\Xan\source\repos\simple calculations exercise\tailoring workshop\bin\Debug\netcoreapp3.0\tailoring workshop.pdb
+C:\Users\Xan\source\repos\simple calculations exercise\tailoring workshop\obj\Debug\netcoreapp3.0\tailoring workshop.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\simple calculations exercise\tailoring workshop\obj\Debug\netcoreapp3.0\tailoring workshop.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\simple calculations exercise\tailoring workshop\obj\Debug\netcoreapp3.0\tailoring workshop.AssemblyInfo.cs
+C:\Users\Xan\source\repos\simple calculations exercise\tailoring workshop\obj\Debug\netcoreapp3.0\tailoring workshop.dll
+C:\Users\Xan\source\repos\simple calculations exercise\tailoring workshop\obj\Debug\netcoreapp3.0\tailoring workshop.pdb

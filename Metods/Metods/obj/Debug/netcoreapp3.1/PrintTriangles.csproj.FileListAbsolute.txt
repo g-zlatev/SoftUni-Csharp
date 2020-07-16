@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\Metods\Metods\bin\Debug\netcoreapp3.1\PrintTriangles.exe
+C:\Users\Xan\source\repos\Metods\Metods\bin\Debug\netcoreapp3.1\PrintTriangles.deps.json
+C:\Users\Xan\source\repos\Metods\Metods\bin\Debug\netcoreapp3.1\PrintTriangles.runtimeconfig.json
+C:\Users\Xan\source\repos\Metods\Metods\bin\Debug\netcoreapp3.1\PrintTriangles.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\Metods\Metods\bin\Debug\netcoreapp3.1\PrintTriangles.dll
+C:\Users\Xan\source\repos\Metods\Metods\bin\Debug\netcoreapp3.1\PrintTriangles.pdb
+C:\Users\Xan\source\repos\Metods\Metods\obj\Debug\netcoreapp3.1\PrintTriangles.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\Metods\Metods\obj\Debug\netcoreapp3.1\PrintTriangles.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\Metods\Metods\obj\Debug\netcoreapp3.1\PrintTriangles.AssemblyInfo.cs
+C:\Users\Xan\source\repos\Metods\Metods\obj\Debug\netcoreapp3.1\PrintTriangles.dll
+C:\Users\Xan\source\repos\Metods\Metods\obj\Debug\netcoreapp3.1\PrintTriangles.pdb

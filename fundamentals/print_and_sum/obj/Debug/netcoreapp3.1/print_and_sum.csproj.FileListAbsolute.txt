@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\fundamentals\print_and_sum\bin\Debug\netcoreapp3.1\print_and_sum.exe
+C:\Users\Xan\source\repos\fundamentals\print_and_sum\bin\Debug\netcoreapp3.1\print_and_sum.deps.json
+C:\Users\Xan\source\repos\fundamentals\print_and_sum\bin\Debug\netcoreapp3.1\print_and_sum.runtimeconfig.json
+C:\Users\Xan\source\repos\fundamentals\print_and_sum\bin\Debug\netcoreapp3.1\print_and_sum.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\fundamentals\print_and_sum\bin\Debug\netcoreapp3.1\print_and_sum.dll
+C:\Users\Xan\source\repos\fundamentals\print_and_sum\bin\Debug\netcoreapp3.1\print_and_sum.pdb
+C:\Users\Xan\source\repos\fundamentals\print_and_sum\obj\Debug\netcoreapp3.1\print_and_sum.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\fundamentals\print_and_sum\obj\Debug\netcoreapp3.1\print_and_sum.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\fundamentals\print_and_sum\obj\Debug\netcoreapp3.1\print_and_sum.AssemblyInfo.cs
+C:\Users\Xan\source\repos\fundamentals\print_and_sum\obj\Debug\netcoreapp3.1\print_and_sum.dll
+C:\Users\Xan\source\repos\fundamentals\print_and_sum\obj\Debug\netcoreapp3.1\print_and_sum.pdb

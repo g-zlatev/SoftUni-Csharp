@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\fundamentals\fundamentals\bin\Debug\netcoreapp3.1\fundamentals - Syntax, Conditional Statements and Loops.exe
+C:\Users\Xan\source\repos\fundamentals\fundamentals\bin\Debug\netcoreapp3.1\fundamentals - Syntax, Conditional Statements and Loops.deps.json
+C:\Users\Xan\source\repos\fundamentals\fundamentals\bin\Debug\netcoreapp3.1\fundamentals - Syntax, Conditional Statements and Loops.runtimeconfig.json
+C:\Users\Xan\source\repos\fundamentals\fundamentals\bin\Debug\netcoreapp3.1\fundamentals - Syntax, Conditional Statements and Loops.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\fundamentals\fundamentals\bin\Debug\netcoreapp3.1\fundamentals - Syntax, Conditional Statements and Loops.dll
+C:\Users\Xan\source\repos\fundamentals\fundamentals\bin\Debug\netcoreapp3.1\fundamentals - Syntax, Conditional Statements and Loops.pdb
+C:\Users\Xan\source\repos\fundamentals\fundamentals\obj\Debug\netcoreapp3.1\fundamentals - Syntax, Conditional Statements and Loops.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\fundamentals\fundamentals\obj\Debug\netcoreapp3.1\fundamentals - Syntax, Conditional Statements and Loops.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\fundamentals\fundamentals\obj\Debug\netcoreapp3.1\fundamentals - Syntax, Conditional Statements and Loops.AssemblyInfo.cs
+C:\Users\Xan\source\repos\fundamentals\fundamentals\obj\Debug\netcoreapp3.1\fundamentals - Syntax, Conditional Statements and Loops.dll
+C:\Users\Xan\source\repos\fundamentals\fundamentals\obj\Debug\netcoreapp3.1\fundamentals - Syntax, Conditional Statements and Loops.pdb

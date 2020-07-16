@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\nested conditionals\ConsoleApp2\obj\Debug\netcoreapp3.0\Small Shop.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\nested conditionals\ConsoleApp2\obj\Debug\netcoreapp3.0\Small Shop.AssemblyInfo.cs
+C:\Users\Xan\source\repos\nested conditionals\ConsoleApp2\bin\Debug\netcoreapp3.0\Small Shop.exe
+C:\Users\Xan\source\repos\nested conditionals\ConsoleApp2\bin\Debug\netcoreapp3.0\Small Shop.deps.json
+C:\Users\Xan\source\repos\nested conditionals\ConsoleApp2\bin\Debug\netcoreapp3.0\Small Shop.runtimeconfig.json
+C:\Users\Xan\source\repos\nested conditionals\ConsoleApp2\bin\Debug\netcoreapp3.0\Small Shop.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\nested conditionals\ConsoleApp2\bin\Debug\netcoreapp3.0\Small Shop.dll
+C:\Users\Xan\source\repos\nested conditionals\ConsoleApp2\bin\Debug\netcoreapp3.0\Small Shop.pdb
+C:\Users\Xan\source\repos\nested conditionals\ConsoleApp2\obj\Debug\netcoreapp3.0\Small Shop.dll
+C:\Users\Xan\source\repos\nested conditionals\ConsoleApp2\obj\Debug\netcoreapp3.0\Small Shop.pdb

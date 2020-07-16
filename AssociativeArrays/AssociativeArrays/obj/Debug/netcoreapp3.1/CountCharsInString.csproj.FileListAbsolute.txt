@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp3.1\CountCharsInString.exe
+C:\Users\Xan\source\repos\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp3.1\CountCharsInString.deps.json
+C:\Users\Xan\source\repos\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp3.1\CountCharsInString.runtimeconfig.json
+C:\Users\Xan\source\repos\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp3.1\CountCharsInString.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp3.1\CountCharsInString.dll
+C:\Users\Xan\source\repos\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp3.1\CountCharsInString.pdb
+C:\Users\Xan\source\repos\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp3.1\CountCharsInString.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp3.1\CountCharsInString.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp3.1\CountCharsInString.AssemblyInfo.cs
+C:\Users\Xan\source\repos\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp3.1\CountCharsInString.dll
+C:\Users\Xan\source\repos\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp3.1\CountCharsInString.pdb

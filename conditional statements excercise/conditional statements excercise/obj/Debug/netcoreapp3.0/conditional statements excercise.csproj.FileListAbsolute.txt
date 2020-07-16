@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\conditional statements excercise\conditional statements excercise\obj\Debug\netcoreapp3.0\conditional statements excercise.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\conditional statements excercise\conditional statements excercise\obj\Debug\netcoreapp3.0\conditional statements excercise.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\conditional statements excercise\conditional statements excercise\obj\Debug\netcoreapp3.0\conditional statements excercise.AssemblyInfo.cs
+C:\Users\Xan\source\repos\conditional statements excercise\conditional statements excercise\bin\Debug\netcoreapp3.0\conditional statements excercise.exe
+C:\Users\Xan\source\repos\conditional statements excercise\conditional statements excercise\bin\Debug\netcoreapp3.0\conditional statements excercise.deps.json
+C:\Users\Xan\source\repos\conditional statements excercise\conditional statements excercise\bin\Debug\netcoreapp3.0\conditional statements excercise.runtimeconfig.json
+C:\Users\Xan\source\repos\conditional statements excercise\conditional statements excercise\bin\Debug\netcoreapp3.0\conditional statements excercise.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\conditional statements excercise\conditional statements excercise\bin\Debug\netcoreapp3.0\conditional statements excercise.dll
+C:\Users\Xan\source\repos\conditional statements excercise\conditional statements excercise\bin\Debug\netcoreapp3.0\conditional statements excercise.pdb
+C:\Users\Xan\source\repos\conditional statements excercise\conditional statements excercise\obj\Debug\netcoreapp3.0\conditional statements excercise.dll
+C:\Users\Xan\source\repos\conditional statements excercise\conditional statements excercise\obj\Debug\netcoreapp3.0\conditional statements excercise.pdb

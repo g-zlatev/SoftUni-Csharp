@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.exe
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.deps.json
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.runtimeconfig.json
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.dll
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.pdb
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.dll
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.pdb

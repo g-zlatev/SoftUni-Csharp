@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\while-loop excercise\coins\bin\Debug\netcoreapp3.0\coins(literal shitshow).exe
+C:\Users\Xan\source\repos\while-loop excercise\coins\bin\Debug\netcoreapp3.0\coins(literal shitshow).deps.json
+C:\Users\Xan\source\repos\while-loop excercise\coins\bin\Debug\netcoreapp3.0\coins(literal shitshow).runtimeconfig.json
+C:\Users\Xan\source\repos\while-loop excercise\coins\bin\Debug\netcoreapp3.0\coins(literal shitshow).runtimeconfig.dev.json
+C:\Users\Xan\source\repos\while-loop excercise\coins\bin\Debug\netcoreapp3.0\coins(literal shitshow).dll
+C:\Users\Xan\source\repos\while-loop excercise\coins\bin\Debug\netcoreapp3.0\coins(literal shitshow).pdb
+C:\Users\Xan\source\repos\while-loop excercise\coins\obj\Debug\netcoreapp3.0\coins(literal shitshow).AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\while-loop excercise\coins\obj\Debug\netcoreapp3.0\coins(literal shitshow).AssemblyInfo.cs
+C:\Users\Xan\source\repos\while-loop excercise\coins\obj\Debug\netcoreapp3.0\coins(literal shitshow).dll
+C:\Users\Xan\source\repos\while-loop excercise\coins\obj\Debug\netcoreapp3.0\coins(literal shitshow).pdb

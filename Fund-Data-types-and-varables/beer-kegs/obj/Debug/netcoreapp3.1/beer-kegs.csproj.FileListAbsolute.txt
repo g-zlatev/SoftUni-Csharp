@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\beer-kegs\bin\Debug\netcoreapp3.1\beer-kegs.exe
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\beer-kegs\bin\Debug\netcoreapp3.1\beer-kegs.deps.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\beer-kegs\bin\Debug\netcoreapp3.1\beer-kegs.runtimeconfig.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\beer-kegs\bin\Debug\netcoreapp3.1\beer-kegs.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\beer-kegs\bin\Debug\netcoreapp3.1\beer-kegs.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\beer-kegs\bin\Debug\netcoreapp3.1\beer-kegs.pdb
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\beer-kegs\obj\Debug\netcoreapp3.1\beer-kegs.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\beer-kegs\obj\Debug\netcoreapp3.1\beer-kegs.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\beer-kegs\obj\Debug\netcoreapp3.1\beer-kegs.AssemblyInfo.cs
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\beer-kegs\obj\Debug\netcoreapp3.1\beer-kegs.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\beer-kegs\obj\Debug\netcoreapp3.1\beer-kegs.pdb

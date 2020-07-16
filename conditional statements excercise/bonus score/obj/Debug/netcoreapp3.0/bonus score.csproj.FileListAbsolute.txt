@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\conditional statements excercise\bonus score\bin\Debug\netcoreapp3.0\bonus score.exe
+C:\Users\Xan\source\repos\conditional statements excercise\bonus score\bin\Debug\netcoreapp3.0\bonus score.deps.json
+C:\Users\Xan\source\repos\conditional statements excercise\bonus score\bin\Debug\netcoreapp3.0\bonus score.runtimeconfig.json
+C:\Users\Xan\source\repos\conditional statements excercise\bonus score\bin\Debug\netcoreapp3.0\bonus score.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\conditional statements excercise\bonus score\bin\Debug\netcoreapp3.0\bonus score.dll
+C:\Users\Xan\source\repos\conditional statements excercise\bonus score\bin\Debug\netcoreapp3.0\bonus score.pdb
+C:\Users\Xan\source\repos\conditional statements excercise\bonus score\obj\Debug\netcoreapp3.0\bonus score.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\conditional statements excercise\bonus score\obj\Debug\netcoreapp3.0\bonus score.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\conditional statements excercise\bonus score\obj\Debug\netcoreapp3.0\bonus score.AssemblyInfo.cs
+C:\Users\Xan\source\repos\conditional statements excercise\bonus score\obj\Debug\netcoreapp3.0\bonus score.dll
+C:\Users\Xan\source\repos\conditional statements excercise\bonus score\obj\Debug\netcoreapp3.0\bonus score.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "moreExc-data-type-finder/1.0.0": {
+        "runtime": {
+          "moreExc-data-type-finder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "moreExc-data-type-finder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

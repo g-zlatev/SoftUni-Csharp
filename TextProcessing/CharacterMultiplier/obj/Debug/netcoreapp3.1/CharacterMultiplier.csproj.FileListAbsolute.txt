@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\TextProcessing\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.exe
+C:\Users\Xan\source\repos\TextProcessing\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.deps.json
+C:\Users\Xan\source\repos\TextProcessing\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.runtimeconfig.json
+C:\Users\Xan\source\repos\TextProcessing\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\TextProcessing\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.dll
+C:\Users\Xan\source\repos\TextProcessing\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.pdb
+C:\Users\Xan\source\repos\TextProcessing\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\TextProcessing\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\TextProcessing\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.AssemblyInfo.cs
+C:\Users\Xan\source\repos\TextProcessing\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.dll
+C:\Users\Xan\source\repos\TextProcessing\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.pdb

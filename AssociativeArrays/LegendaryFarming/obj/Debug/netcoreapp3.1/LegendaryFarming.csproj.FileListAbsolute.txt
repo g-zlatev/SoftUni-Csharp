@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.exe
+C:\Users\Xan\source\repos\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.deps.json
+C:\Users\Xan\source\repos\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.runtimeconfig.json
+C:\Users\Xan\source\repos\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.dll
+C:\Users\Xan\source\repos\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.pdb
+C:\Users\Xan\source\repos\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.AssemblyInfo.cs
+C:\Users\Xan\source\repos\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.dll
+C:\Users\Xan\source\repos\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.pdb

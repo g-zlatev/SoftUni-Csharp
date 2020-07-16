@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\sum-digits\bin\Debug\netcoreapp3.1\sum-digits.exe
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\sum-digits\bin\Debug\netcoreapp3.1\sum-digits.deps.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\sum-digits\bin\Debug\netcoreapp3.1\sum-digits.runtimeconfig.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\sum-digits\bin\Debug\netcoreapp3.1\sum-digits.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\sum-digits\bin\Debug\netcoreapp3.1\sum-digits.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\sum-digits\bin\Debug\netcoreapp3.1\sum-digits.pdb
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\sum-digits\obj\Debug\netcoreapp3.1\sum-digits.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\sum-digits\obj\Debug\netcoreapp3.1\sum-digits.AssemblyInfo.cs
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\sum-digits\obj\Debug\netcoreapp3.1\sum-digits.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\sum-digits\obj\Debug\netcoreapp3.1\sum-digits.pdb

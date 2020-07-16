@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Bakery\bin\Debug\netcoreapp3.0\Bakery.exe
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Bakery\bin\Debug\netcoreapp3.0\Bakery.deps.json
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Bakery\bin\Debug\netcoreapp3.0\Bakery.runtimeconfig.json
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Bakery\bin\Debug\netcoreapp3.0\Bakery.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Bakery\bin\Debug\netcoreapp3.0\Bakery.dll
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Bakery\bin\Debug\netcoreapp3.0\Bakery.pdb
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Bakery\obj\Debug\netcoreapp3.0\Bakery.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Bakery\obj\Debug\netcoreapp3.0\Bakery.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Bakery\obj\Debug\netcoreapp3.0\Bakery.AssemblyInfo.cs
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Bakery\obj\Debug\netcoreapp3.0\Bakery.dll
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Bakery\obj\Debug\netcoreapp3.0\Bakery.pdb

@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\rageexpenses\makemeaword\bin\Debug\netcoreapp3.1\makemeaword.exe
+C:\Users\Xan\source\repos\rageexpenses\makemeaword\bin\Debug\netcoreapp3.1\makemeaword.deps.json
+C:\Users\Xan\source\repos\rageexpenses\makemeaword\bin\Debug\netcoreapp3.1\makemeaword.runtimeconfig.json
+C:\Users\Xan\source\repos\rageexpenses\makemeaword\bin\Debug\netcoreapp3.1\makemeaword.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\rageexpenses\makemeaword\bin\Debug\netcoreapp3.1\makemeaword.dll
+C:\Users\Xan\source\repos\rageexpenses\makemeaword\bin\Debug\netcoreapp3.1\makemeaword.pdb
+C:\Users\Xan\source\repos\rageexpenses\makemeaword\obj\Debug\netcoreapp3.1\makemeaword.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\rageexpenses\makemeaword\obj\Debug\netcoreapp3.1\makemeaword.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\rageexpenses\makemeaword\obj\Debug\netcoreapp3.1\makemeaword.AssemblyInfo.cs
+C:\Users\Xan\source\repos\rageexpenses\makemeaword\obj\Debug\netcoreapp3.1\makemeaword.dll
+C:\Users\Xan\source\repos\rageexpenses\makemeaword\obj\Debug\netcoreapp3.1\makemeaword.pdb

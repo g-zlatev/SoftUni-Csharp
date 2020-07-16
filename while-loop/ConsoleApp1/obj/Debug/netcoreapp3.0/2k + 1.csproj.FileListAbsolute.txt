@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\while-loop\ConsoleApp1\bin\Debug\netcoreapp3.0\2k + 1.exe
+C:\Users\Xan\source\repos\while-loop\ConsoleApp1\bin\Debug\netcoreapp3.0\2k + 1.deps.json
+C:\Users\Xan\source\repos\while-loop\ConsoleApp1\bin\Debug\netcoreapp3.0\2k + 1.runtimeconfig.json
+C:\Users\Xan\source\repos\while-loop\ConsoleApp1\bin\Debug\netcoreapp3.0\2k + 1.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\while-loop\ConsoleApp1\bin\Debug\netcoreapp3.0\2k + 1.dll
+C:\Users\Xan\source\repos\while-loop\ConsoleApp1\bin\Debug\netcoreapp3.0\2k + 1.pdb
+C:\Users\Xan\source\repos\while-loop\ConsoleApp1\obj\Debug\netcoreapp3.0\2k + 1.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\while-loop\ConsoleApp1\obj\Debug\netcoreapp3.0\2k + 1.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\while-loop\ConsoleApp1\obj\Debug\netcoreapp3.0\2k + 1.AssemblyInfo.cs
+C:\Users\Xan\source\repos\while-loop\ConsoleApp1\obj\Debug\netcoreapp3.0\2k + 1.dll
+C:\Users\Xan\source\repos\while-loop\ConsoleApp1\obj\Debug\netcoreapp3.0\2k + 1.pdb

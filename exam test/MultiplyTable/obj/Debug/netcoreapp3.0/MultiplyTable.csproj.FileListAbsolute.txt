@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\exam test\MultiplyTable\bin\Debug\netcoreapp3.0\MultiplyTable.exe
+C:\Users\Xan\source\repos\exam test\MultiplyTable\bin\Debug\netcoreapp3.0\MultiplyTable.deps.json
+C:\Users\Xan\source\repos\exam test\MultiplyTable\bin\Debug\netcoreapp3.0\MultiplyTable.runtimeconfig.json
+C:\Users\Xan\source\repos\exam test\MultiplyTable\bin\Debug\netcoreapp3.0\MultiplyTable.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\exam test\MultiplyTable\bin\Debug\netcoreapp3.0\MultiplyTable.dll
+C:\Users\Xan\source\repos\exam test\MultiplyTable\bin\Debug\netcoreapp3.0\MultiplyTable.pdb
+C:\Users\Xan\source\repos\exam test\MultiplyTable\obj\Debug\netcoreapp3.0\MultiplyTable.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\exam test\MultiplyTable\obj\Debug\netcoreapp3.0\MultiplyTable.AssemblyInfo.cs
+C:\Users\Xan\source\repos\exam test\MultiplyTable\obj\Debug\netcoreapp3.0\MultiplyTable.dll
+C:\Users\Xan\source\repos\exam test\MultiplyTable\obj\Debug\netcoreapp3.0\MultiplyTable.pdb

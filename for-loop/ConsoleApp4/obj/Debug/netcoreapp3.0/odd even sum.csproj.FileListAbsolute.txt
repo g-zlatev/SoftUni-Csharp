@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\for-loop\ConsoleApp4\bin\Debug\netcoreapp3.0\odd even sum.exe
+C:\Users\Xan\source\repos\for-loop\ConsoleApp4\bin\Debug\netcoreapp3.0\odd even sum.deps.json
+C:\Users\Xan\source\repos\for-loop\ConsoleApp4\bin\Debug\netcoreapp3.0\odd even sum.runtimeconfig.json
+C:\Users\Xan\source\repos\for-loop\ConsoleApp4\bin\Debug\netcoreapp3.0\odd even sum.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\for-loop\ConsoleApp4\bin\Debug\netcoreapp3.0\odd even sum.dll
+C:\Users\Xan\source\repos\for-loop\ConsoleApp4\bin\Debug\netcoreapp3.0\odd even sum.pdb
+C:\Users\Xan\source\repos\for-loop\ConsoleApp4\obj\Debug\netcoreapp3.0\odd even sum.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\for-loop\ConsoleApp4\obj\Debug\netcoreapp3.0\odd even sum.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\for-loop\ConsoleApp4\obj\Debug\netcoreapp3.0\odd even sum.AssemblyInfo.cs
+C:\Users\Xan\source\repos\for-loop\ConsoleApp4\obj\Debug\netcoreapp3.0\odd even sum.dll
+C:\Users\Xan\source\repos\for-loop\ConsoleApp4\obj\Debug\netcoreapp3.0\odd even sum.pdb

@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\fundamentals\division\bin\Debug\netcoreapp3.1\division.exe
+C:\Users\Xan\source\repos\fundamentals\division\bin\Debug\netcoreapp3.1\division.deps.json
+C:\Users\Xan\source\repos\fundamentals\division\bin\Debug\netcoreapp3.1\division.runtimeconfig.json
+C:\Users\Xan\source\repos\fundamentals\division\bin\Debug\netcoreapp3.1\division.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\fundamentals\division\bin\Debug\netcoreapp3.1\division.dll
+C:\Users\Xan\source\repos\fundamentals\division\bin\Debug\netcoreapp3.1\division.pdb
+C:\Users\Xan\source\repos\fundamentals\division\obj\Debug\netcoreapp3.1\division.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\fundamentals\division\obj\Debug\netcoreapp3.1\division.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\fundamentals\division\obj\Debug\netcoreapp3.1\division.AssemblyInfo.cs
+C:\Users\Xan\source\repos\fundamentals\division\obj\Debug\netcoreapp3.1\division.dll
+C:\Users\Xan\source\repos\fundamentals\division\obj\Debug\netcoreapp3.1\division.pdb

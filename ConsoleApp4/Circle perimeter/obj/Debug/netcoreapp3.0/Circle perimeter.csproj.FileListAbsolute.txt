@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\ConsoleApp4\Circle perimeter\bin\Debug\netcoreapp3.0\Circle perimeter.exe
+C:\Users\Xan\source\repos\ConsoleApp4\Circle perimeter\bin\Debug\netcoreapp3.0\Circle perimeter.deps.json
+C:\Users\Xan\source\repos\ConsoleApp4\Circle perimeter\bin\Debug\netcoreapp3.0\Circle perimeter.runtimeconfig.json
+C:\Users\Xan\source\repos\ConsoleApp4\Circle perimeter\bin\Debug\netcoreapp3.0\Circle perimeter.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\ConsoleApp4\Circle perimeter\bin\Debug\netcoreapp3.0\Circle perimeter.dll
+C:\Users\Xan\source\repos\ConsoleApp4\Circle perimeter\bin\Debug\netcoreapp3.0\Circle perimeter.pdb
+C:\Users\Xan\source\repos\ConsoleApp4\Circle perimeter\obj\Debug\netcoreapp3.0\Circle perimeter.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\ConsoleApp4\Circle perimeter\obj\Debug\netcoreapp3.0\Circle perimeter.AssemblyInfo.cs
+C:\Users\Xan\source\repos\ConsoleApp4\Circle perimeter\obj\Debug\netcoreapp3.0\Circle perimeter.dll
+C:\Users\Xan\source\repos\ConsoleApp4\Circle perimeter\obj\Debug\netcoreapp3.0\Circle perimeter.pdb
+C:\Users\Xan\source\repos\ConsoleApp4\Circle perimeter\obj\Debug\netcoreapp3.0\Circle perimeter.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\while-loop excercise\coins\bin\Debug\netcoreapp3.0\coins.exe
+C:\Users\Xan\source\repos\while-loop excercise\coins\bin\Debug\netcoreapp3.0\coins.deps.json
+C:\Users\Xan\source\repos\while-loop excercise\coins\bin\Debug\netcoreapp3.0\coins.runtimeconfig.json
+C:\Users\Xan\source\repos\while-loop excercise\coins\bin\Debug\netcoreapp3.0\coins.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\while-loop excercise\coins\bin\Debug\netcoreapp3.0\coins.dll
+C:\Users\Xan\source\repos\while-loop excercise\coins\bin\Debug\netcoreapp3.0\coins.pdb
+C:\Users\Xan\source\repos\while-loop excercise\coins\obj\Debug\netcoreapp3.0\coins.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\while-loop excercise\coins\obj\Debug\netcoreapp3.0\coins.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\while-loop excercise\coins\obj\Debug\netcoreapp3.0\coins.AssemblyInfo.cs
+C:\Users\Xan\source\repos\while-loop excercise\coins\obj\Debug\netcoreapp3.0\coins.dll
+C:\Users\Xan\source\repos\while-loop excercise\coins\obj\Debug\netcoreapp3.0\coins.pdb

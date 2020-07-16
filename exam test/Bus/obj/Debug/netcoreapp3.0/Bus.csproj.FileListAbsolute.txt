@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\exam test\Bus\bin\Debug\netcoreapp3.0\Bus.exe
+C:\Users\Xan\source\repos\exam test\Bus\bin\Debug\netcoreapp3.0\Bus.deps.json
+C:\Users\Xan\source\repos\exam test\Bus\bin\Debug\netcoreapp3.0\Bus.runtimeconfig.json
+C:\Users\Xan\source\repos\exam test\Bus\bin\Debug\netcoreapp3.0\Bus.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\exam test\Bus\bin\Debug\netcoreapp3.0\Bus.dll
+C:\Users\Xan\source\repos\exam test\Bus\bin\Debug\netcoreapp3.0\Bus.pdb
+C:\Users\Xan\source\repos\exam test\Bus\obj\Debug\netcoreapp3.0\Bus.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\exam test\Bus\obj\Debug\netcoreapp3.0\Bus.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\exam test\Bus\obj\Debug\netcoreapp3.0\Bus.AssemblyInfo.cs
+C:\Users\Xan\source\repos\exam test\Bus\obj\Debug\netcoreapp3.0\Bus.dll
+C:\Users\Xan\source\repos\exam test\Bus\obj\Debug\netcoreapp3.0\Bus.pdb

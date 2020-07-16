@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\for-loop\ConsoleApp1\bin\Debug\netcoreapp3.0\a to z.exe
+C:\Users\Xan\source\repos\for-loop\ConsoleApp1\bin\Debug\netcoreapp3.0\a to z.deps.json
+C:\Users\Xan\source\repos\for-loop\ConsoleApp1\bin\Debug\netcoreapp3.0\a to z.runtimeconfig.json
+C:\Users\Xan\source\repos\for-loop\ConsoleApp1\bin\Debug\netcoreapp3.0\a to z.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\for-loop\ConsoleApp1\bin\Debug\netcoreapp3.0\a to z.dll
+C:\Users\Xan\source\repos\for-loop\ConsoleApp1\bin\Debug\netcoreapp3.0\a to z.pdb
+C:\Users\Xan\source\repos\for-loop\ConsoleApp1\obj\Debug\netcoreapp3.0\a to z.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\for-loop\ConsoleApp1\obj\Debug\netcoreapp3.0\a to z.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\for-loop\ConsoleApp1\obj\Debug\netcoreapp3.0\a to z.AssemblyInfo.cs
+C:\Users\Xan\source\repos\for-loop\ConsoleApp1\obj\Debug\netcoreapp3.0\a to z.dll
+C:\Users\Xan\source\repos\for-loop\ConsoleApp1\obj\Debug\netcoreapp3.0\a to z.pdb

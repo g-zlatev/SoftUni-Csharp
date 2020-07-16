@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\fundamentals\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+C:\Users\Xan\source\repos\fundamentals\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+C:\Users\Xan\source\repos\fundamentals\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+C:\Users\Xan\source\repos\fundamentals\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\fundamentals\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\Xan\source\repos\fundamentals\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\Xan\source\repos\fundamentals\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\fundamentals\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+C:\Users\Xan\source\repos\fundamentals\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\Xan\source\repos\fundamentals\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\Xan\source\repos\fundamentals\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csprojAssemblyReference.cache

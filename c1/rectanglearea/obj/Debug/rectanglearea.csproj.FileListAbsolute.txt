@@ -1,0 +1,6 @@
+C:\Users\Xan\source\repos\c1\rectanglearea\bin\Debug\rectanglearea.exe.config
+C:\Users\Xan\source\repos\c1\rectanglearea\bin\Debug\rectanglearea.exe
+C:\Users\Xan\source\repos\c1\rectanglearea\bin\Debug\rectanglearea.pdb
+C:\Users\Xan\source\repos\c1\rectanglearea\obj\Debug\rectanglearea.csproj.CoreCompileInputs.cache
+C:\Users\Xan\source\repos\c1\rectanglearea\obj\Debug\rectanglearea.exe
+C:\Users\Xan\source\repos\c1\rectanglearea\obj\Debug\rectanglearea.pdb

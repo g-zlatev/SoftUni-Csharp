@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\conditional statements excercise\metric converster\bin\Debug\netcoreapp3.0\metric converter.exe
+C:\Users\Xan\source\repos\conditional statements excercise\metric converster\bin\Debug\netcoreapp3.0\metric converter.deps.json
+C:\Users\Xan\source\repos\conditional statements excercise\metric converster\bin\Debug\netcoreapp3.0\metric converter.runtimeconfig.json
+C:\Users\Xan\source\repos\conditional statements excercise\metric converster\bin\Debug\netcoreapp3.0\metric converter.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\conditional statements excercise\metric converster\bin\Debug\netcoreapp3.0\metric converter.dll
+C:\Users\Xan\source\repos\conditional statements excercise\metric converster\bin\Debug\netcoreapp3.0\metric converter.pdb
+C:\Users\Xan\source\repos\conditional statements excercise\metric converster\obj\Debug\netcoreapp3.0\metric converter.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\conditional statements excercise\metric converster\obj\Debug\netcoreapp3.0\metric converter.AssemblyInfo.cs
+C:\Users\Xan\source\repos\conditional statements excercise\metric converster\obj\Debug\netcoreapp3.0\metric converter.dll
+C:\Users\Xan\source\repos\conditional statements excercise\metric converster\obj\Debug\netcoreapp3.0\metric converter.pdb

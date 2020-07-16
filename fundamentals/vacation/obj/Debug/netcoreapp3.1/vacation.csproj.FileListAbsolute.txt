@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\fundamentals\vacation\bin\Debug\netcoreapp3.1\vacation.exe
+C:\Users\Xan\source\repos\fundamentals\vacation\bin\Debug\netcoreapp3.1\vacation.deps.json
+C:\Users\Xan\source\repos\fundamentals\vacation\bin\Debug\netcoreapp3.1\vacation.runtimeconfig.json
+C:\Users\Xan\source\repos\fundamentals\vacation\bin\Debug\netcoreapp3.1\vacation.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\fundamentals\vacation\bin\Debug\netcoreapp3.1\vacation.dll
+C:\Users\Xan\source\repos\fundamentals\vacation\bin\Debug\netcoreapp3.1\vacation.pdb
+C:\Users\Xan\source\repos\fundamentals\vacation\obj\Debug\netcoreapp3.1\vacation.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\fundamentals\vacation\obj\Debug\netcoreapp3.1\vacation.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\fundamentals\vacation\obj\Debug\netcoreapp3.1\vacation.AssemblyInfo.cs
+C:\Users\Xan\source\repos\fundamentals\vacation\obj\Debug\netcoreapp3.1\vacation.dll
+C:\Users\Xan\source\repos\fundamentals\vacation\obj\Debug\netcoreapp3.1\vacation.pdb

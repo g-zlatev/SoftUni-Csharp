@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Sushi_time/1.0.0": {
+        "runtime": {
+          "Sushi_time.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sushi_time/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

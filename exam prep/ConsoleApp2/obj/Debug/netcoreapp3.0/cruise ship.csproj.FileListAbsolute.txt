@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\exam prep\ConsoleApp2\bin\Debug\netcoreapp3.0\cruise ship.exe
+C:\Users\Xan\source\repos\exam prep\ConsoleApp2\bin\Debug\netcoreapp3.0\cruise ship.deps.json
+C:\Users\Xan\source\repos\exam prep\ConsoleApp2\bin\Debug\netcoreapp3.0\cruise ship.runtimeconfig.json
+C:\Users\Xan\source\repos\exam prep\ConsoleApp2\bin\Debug\netcoreapp3.0\cruise ship.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\exam prep\ConsoleApp2\bin\Debug\netcoreapp3.0\cruise ship.dll
+C:\Users\Xan\source\repos\exam prep\ConsoleApp2\bin\Debug\netcoreapp3.0\cruise ship.pdb
+C:\Users\Xan\source\repos\exam prep\ConsoleApp2\obj\Debug\netcoreapp3.0\cruise ship.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\exam prep\ConsoleApp2\obj\Debug\netcoreapp3.0\cruise ship.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\exam prep\ConsoleApp2\obj\Debug\netcoreapp3.0\cruise ship.AssemblyInfo.cs
+C:\Users\Xan\source\repos\exam prep\ConsoleApp2\obj\Debug\netcoreapp3.0\cruise ship.dll
+C:\Users\Xan\source\repos\exam prep\ConsoleApp2\obj\Debug\netcoreapp3.0\cruise ship.pdb

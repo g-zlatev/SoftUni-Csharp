@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\exam test\BachelorParty\bin\Debug\netcoreapp3.0\BachelorParty.exe
+C:\Users\Xan\source\repos\exam test\BachelorParty\bin\Debug\netcoreapp3.0\BachelorParty.deps.json
+C:\Users\Xan\source\repos\exam test\BachelorParty\bin\Debug\netcoreapp3.0\BachelorParty.runtimeconfig.json
+C:\Users\Xan\source\repos\exam test\BachelorParty\bin\Debug\netcoreapp3.0\BachelorParty.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\exam test\BachelorParty\bin\Debug\netcoreapp3.0\BachelorParty.dll
+C:\Users\Xan\source\repos\exam test\BachelorParty\bin\Debug\netcoreapp3.0\BachelorParty.pdb
+C:\Users\Xan\source\repos\exam test\BachelorParty\obj\Debug\netcoreapp3.0\BachelorParty.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\exam test\BachelorParty\obj\Debug\netcoreapp3.0\BachelorParty.AssemblyInfo.cs
+C:\Users\Xan\source\repos\exam test\BachelorParty\obj\Debug\netcoreapp3.0\BachelorParty.dll
+C:\Users\Xan\source\repos\exam test\BachelorParty\obj\Debug\netcoreapp3.0\BachelorParty.pdb

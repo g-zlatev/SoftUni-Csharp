@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\arraysExcercise\SumElements\bin\Debug\netcoreapp3.1\SumElements.exe
+C:\Users\Xan\source\repos\arraysExcercise\SumElements\bin\Debug\netcoreapp3.1\SumElements.deps.json
+C:\Users\Xan\source\repos\arraysExcercise\SumElements\bin\Debug\netcoreapp3.1\SumElements.runtimeconfig.json
+C:\Users\Xan\source\repos\arraysExcercise\SumElements\bin\Debug\netcoreapp3.1\SumElements.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\arraysExcercise\SumElements\bin\Debug\netcoreapp3.1\SumElements.dll
+C:\Users\Xan\source\repos\arraysExcercise\SumElements\bin\Debug\netcoreapp3.1\SumElements.pdb
+C:\Users\Xan\source\repos\arraysExcercise\SumElements\obj\Debug\netcoreapp3.1\SumElements.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\arraysExcercise\SumElements\obj\Debug\netcoreapp3.1\SumElements.AssemblyInfo.cs
+C:\Users\Xan\source\repos\arraysExcercise\SumElements\obj\Debug\netcoreapp3.1\SumElements.dll
+C:\Users\Xan\source\repos\arraysExcercise\SumElements\obj\Debug\netcoreapp3.1\SumElements.pdb

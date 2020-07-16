@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\for-loop\ConsoleApp7\bin\Debug\netcoreapp3.0\lilly.exe
+C:\Users\Xan\source\repos\for-loop\ConsoleApp7\bin\Debug\netcoreapp3.0\lilly.deps.json
+C:\Users\Xan\source\repos\for-loop\ConsoleApp7\bin\Debug\netcoreapp3.0\lilly.runtimeconfig.json
+C:\Users\Xan\source\repos\for-loop\ConsoleApp7\bin\Debug\netcoreapp3.0\lilly.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\for-loop\ConsoleApp7\bin\Debug\netcoreapp3.0\lilly.dll
+C:\Users\Xan\source\repos\for-loop\ConsoleApp7\bin\Debug\netcoreapp3.0\lilly.pdb
+C:\Users\Xan\source\repos\for-loop\ConsoleApp7\obj\Debug\netcoreapp3.0\lilly.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\for-loop\ConsoleApp7\obj\Debug\netcoreapp3.0\lilly.AssemblyInfo.cs
+C:\Users\Xan\source\repos\for-loop\ConsoleApp7\obj\Debug\netcoreapp3.0\lilly.dll
+C:\Users\Xan\source\repos\for-loop\ConsoleApp7\obj\Debug\netcoreapp3.0\lilly.pdb

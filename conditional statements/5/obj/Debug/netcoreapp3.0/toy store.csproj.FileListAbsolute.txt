@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\conditional statements\5\bin\Debug\netcoreapp3.0\toy store.exe
+C:\Users\Xan\source\repos\conditional statements\5\bin\Debug\netcoreapp3.0\toy store.deps.json
+C:\Users\Xan\source\repos\conditional statements\5\bin\Debug\netcoreapp3.0\toy store.runtimeconfig.json
+C:\Users\Xan\source\repos\conditional statements\5\bin\Debug\netcoreapp3.0\toy store.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\conditional statements\5\bin\Debug\netcoreapp3.0\toy store.dll
+C:\Users\Xan\source\repos\conditional statements\5\bin\Debug\netcoreapp3.0\toy store.pdb
+C:\Users\Xan\source\repos\conditional statements\5\obj\Debug\netcoreapp3.0\toy store.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\conditional statements\5\obj\Debug\netcoreapp3.0\toy store.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\conditional statements\5\obj\Debug\netcoreapp3.0\toy store.AssemblyInfo.cs
+C:\Users\Xan\source\repos\conditional statements\5\obj\Debug\netcoreapp3.0\toy store.dll
+C:\Users\Xan\source\repos\conditional statements\5\obj\Debug\netcoreapp3.0\toy store.pdb

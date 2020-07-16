@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\conditional statements excercise\time +15\bin\Debug\netcoreapp3.0\time +15.exe
+C:\Users\Xan\source\repos\conditional statements excercise\time +15\bin\Debug\netcoreapp3.0\time +15.deps.json
+C:\Users\Xan\source\repos\conditional statements excercise\time +15\bin\Debug\netcoreapp3.0\time +15.runtimeconfig.json
+C:\Users\Xan\source\repos\conditional statements excercise\time +15\bin\Debug\netcoreapp3.0\time +15.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\conditional statements excercise\time +15\bin\Debug\netcoreapp3.0\time +15.dll
+C:\Users\Xan\source\repos\conditional statements excercise\time +15\bin\Debug\netcoreapp3.0\time +15.pdb
+C:\Users\Xan\source\repos\conditional statements excercise\time +15\obj\Debug\netcoreapp3.0\time +15.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\conditional statements excercise\time +15\obj\Debug\netcoreapp3.0\time +15.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\conditional statements excercise\time +15\obj\Debug\netcoreapp3.0\time +15.AssemblyInfo.cs
+C:\Users\Xan\source\repos\conditional statements excercise\time +15\obj\Debug\netcoreapp3.0\time +15.dll
+C:\Users\Xan\source\repos\conditional statements excercise\time +15\obj\Debug\netcoreapp3.0\time +15.pdb

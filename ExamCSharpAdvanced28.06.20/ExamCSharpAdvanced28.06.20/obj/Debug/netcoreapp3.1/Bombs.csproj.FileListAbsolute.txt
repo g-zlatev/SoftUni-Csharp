@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\ExamCSharpAdvanced28.06.20\ExamCSharpAdvanced28.06.20\bin\Debug\netcoreapp3.1\Bombs.exe
+C:\Users\Xan\source\repos\ExamCSharpAdvanced28.06.20\ExamCSharpAdvanced28.06.20\bin\Debug\netcoreapp3.1\Bombs.deps.json
+C:\Users\Xan\source\repos\ExamCSharpAdvanced28.06.20\ExamCSharpAdvanced28.06.20\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.json
+C:\Users\Xan\source\repos\ExamCSharpAdvanced28.06.20\ExamCSharpAdvanced28.06.20\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\ExamCSharpAdvanced28.06.20\ExamCSharpAdvanced28.06.20\bin\Debug\netcoreapp3.1\Bombs.dll
+C:\Users\Xan\source\repos\ExamCSharpAdvanced28.06.20\ExamCSharpAdvanced28.06.20\bin\Debug\netcoreapp3.1\Bombs.pdb
+C:\Users\Xan\source\repos\ExamCSharpAdvanced28.06.20\ExamCSharpAdvanced28.06.20\obj\Debug\netcoreapp3.1\Bombs.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\ExamCSharpAdvanced28.06.20\ExamCSharpAdvanced28.06.20\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\ExamCSharpAdvanced28.06.20\ExamCSharpAdvanced28.06.20\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfo.cs
+C:\Users\Xan\source\repos\ExamCSharpAdvanced28.06.20\ExamCSharpAdvanced28.06.20\obj\Debug\netcoreapp3.1\Bombs.dll
+C:\Users\Xan\source\repos\ExamCSharpAdvanced28.06.20\ExamCSharpAdvanced28.06.20\obj\Debug\netcoreapp3.1\Bombs.pdb

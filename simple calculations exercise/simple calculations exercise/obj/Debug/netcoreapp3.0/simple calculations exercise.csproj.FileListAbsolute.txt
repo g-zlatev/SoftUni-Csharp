@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\bin\Debug\netcoreapp3.0\simple calculations exercise.exe
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\bin\Debug\netcoreapp3.0\simple calculations exercise.deps.json
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\bin\Debug\netcoreapp3.0\simple calculations exercise.runtimeconfig.json
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\bin\Debug\netcoreapp3.0\simple calculations exercise.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\bin\Debug\netcoreapp3.0\simple calculations exercise.dll
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\bin\Debug\netcoreapp3.0\simple calculations exercise.pdb
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\obj\Debug\netcoreapp3.0\simple calculations exercise.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\obj\Debug\netcoreapp3.0\simple calculations exercise.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\obj\Debug\netcoreapp3.0\simple calculations exercise.AssemblyInfo.cs
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\obj\Debug\netcoreapp3.0\simple calculations exercise.dll
+C:\Users\Xan\source\repos\simple calculations exercise\simple calculations exercise\obj\Debug\netcoreapp3.0\simple calculations exercise.pdb

@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\arrays-Lab\arrays-Lab\bin\Debug\netcoreapp3.1\arrays-Lab.exe
+C:\Users\Xan\source\repos\arrays-Lab\arrays-Lab\bin\Debug\netcoreapp3.1\arrays-Lab.deps.json
+C:\Users\Xan\source\repos\arrays-Lab\arrays-Lab\bin\Debug\netcoreapp3.1\arrays-Lab.runtimeconfig.json
+C:\Users\Xan\source\repos\arrays-Lab\arrays-Lab\bin\Debug\netcoreapp3.1\arrays-Lab.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\arrays-Lab\arrays-Lab\bin\Debug\netcoreapp3.1\arrays-Lab.dll
+C:\Users\Xan\source\repos\arrays-Lab\arrays-Lab\bin\Debug\netcoreapp3.1\arrays-Lab.pdb
+C:\Users\Xan\source\repos\arrays-Lab\arrays-Lab\obj\Debug\netcoreapp3.1\arrays-Lab.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\arrays-Lab\arrays-Lab\obj\Debug\netcoreapp3.1\arrays-Lab.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\arrays-Lab\arrays-Lab\obj\Debug\netcoreapp3.1\arrays-Lab.AssemblyInfo.cs
+C:\Users\Xan\source\repos\arrays-Lab\arrays-Lab\obj\Debug\netcoreapp3.1\arrays-Lab.dll
+C:\Users\Xan\source\repos\arrays-Lab\arrays-Lab\obj\Debug\netcoreapp3.1\arrays-Lab.pdb

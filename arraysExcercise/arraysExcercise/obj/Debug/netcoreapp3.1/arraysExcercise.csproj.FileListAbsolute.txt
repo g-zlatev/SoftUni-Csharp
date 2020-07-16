@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\arraysExcercise\arraysExcercise\bin\Debug\netcoreapp3.1\arraysExcercise.exe
+C:\Users\Xan\source\repos\arraysExcercise\arraysExcercise\bin\Debug\netcoreapp3.1\arraysExcercise.deps.json
+C:\Users\Xan\source\repos\arraysExcercise\arraysExcercise\bin\Debug\netcoreapp3.1\arraysExcercise.runtimeconfig.json
+C:\Users\Xan\source\repos\arraysExcercise\arraysExcercise\bin\Debug\netcoreapp3.1\arraysExcercise.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\arraysExcercise\arraysExcercise\bin\Debug\netcoreapp3.1\arraysExcercise.dll
+C:\Users\Xan\source\repos\arraysExcercise\arraysExcercise\bin\Debug\netcoreapp3.1\arraysExcercise.pdb
+C:\Users\Xan\source\repos\arraysExcercise\arraysExcercise\obj\Debug\netcoreapp3.1\arraysExcercise.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\arraysExcercise\arraysExcercise\obj\Debug\netcoreapp3.1\arraysExcercise.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\arraysExcercise\arraysExcercise\obj\Debug\netcoreapp3.1\arraysExcercise.AssemblyInfo.cs
+C:\Users\Xan\source\repos\arraysExcercise\arraysExcercise\obj\Debug\netcoreapp3.1\arraysExcercise.dll
+C:\Users\Xan\source\repos\arraysExcercise\arraysExcercise\obj\Debug\netcoreapp3.1\arraysExcercise.pdb

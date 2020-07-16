@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\num-of-chars\bin\Debug\netcoreapp3.1\sum-of-chars.exe
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\num-of-chars\bin\Debug\netcoreapp3.1\sum-of-chars.deps.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\num-of-chars\bin\Debug\netcoreapp3.1\sum-of-chars.runtimeconfig.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\num-of-chars\bin\Debug\netcoreapp3.1\sum-of-chars.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\num-of-chars\bin\Debug\netcoreapp3.1\sum-of-chars.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\num-of-chars\bin\Debug\netcoreapp3.1\sum-of-chars.pdb
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\num-of-chars\obj\Debug\netcoreapp3.1\sum-of-chars.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\num-of-chars\obj\Debug\netcoreapp3.1\sum-of-chars.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\num-of-chars\obj\Debug\netcoreapp3.1\sum-of-chars.AssemblyInfo.cs
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\num-of-chars\obj\Debug\netcoreapp3.1\sum-of-chars.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\num-of-chars\obj\Debug\netcoreapp3.1\sum-of-chars.pdb

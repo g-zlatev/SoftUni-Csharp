@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "numbers 1-9 to text/1.0.0": {
+        "runtime": {
+          "numbers 1-9 to text.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "numbers 1-9 to text/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Freelance\bin\Debug\netcoreapp3.0\Freelance.exe
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Freelance\bin\Debug\netcoreapp3.0\Freelance.deps.json
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Freelance\bin\Debug\netcoreapp3.0\Freelance.runtimeconfig.json
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Freelance\bin\Debug\netcoreapp3.0\Freelance.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Freelance\bin\Debug\netcoreapp3.0\Freelance.dll
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Freelance\bin\Debug\netcoreapp3.0\Freelance.pdb
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Freelance\obj\Debug\netcoreapp3.0\Freelance.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Freelance\obj\Debug\netcoreapp3.0\Freelance.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Freelance\obj\Debug\netcoreapp3.0\Freelance.AssemblyInfo.cs
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Freelance\obj\Debug\netcoreapp3.0\Freelance.dll
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Freelance\obj\Debug\netcoreapp3.0\Freelance.pdb

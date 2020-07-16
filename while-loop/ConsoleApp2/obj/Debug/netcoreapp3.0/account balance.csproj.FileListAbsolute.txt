@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\while-loop\ConsoleApp2\bin\Debug\netcoreapp3.0\account balance.exe
+C:\Users\Xan\source\repos\while-loop\ConsoleApp2\bin\Debug\netcoreapp3.0\account balance.deps.json
+C:\Users\Xan\source\repos\while-loop\ConsoleApp2\bin\Debug\netcoreapp3.0\account balance.runtimeconfig.json
+C:\Users\Xan\source\repos\while-loop\ConsoleApp2\bin\Debug\netcoreapp3.0\account balance.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\while-loop\ConsoleApp2\bin\Debug\netcoreapp3.0\account balance.dll
+C:\Users\Xan\source\repos\while-loop\ConsoleApp2\bin\Debug\netcoreapp3.0\account balance.pdb
+C:\Users\Xan\source\repos\while-loop\ConsoleApp2\obj\Debug\netcoreapp3.0\account balance.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\while-loop\ConsoleApp2\obj\Debug\netcoreapp3.0\account balance.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\while-loop\ConsoleApp2\obj\Debug\netcoreapp3.0\account balance.AssemblyInfo.cs
+C:\Users\Xan\source\repos\while-loop\ConsoleApp2\obj\Debug\netcoreapp3.0\account balance.dll
+C:\Users\Xan\source\repos\while-loop\ConsoleApp2\obj\Debug\netcoreapp3.0\account balance.pdb

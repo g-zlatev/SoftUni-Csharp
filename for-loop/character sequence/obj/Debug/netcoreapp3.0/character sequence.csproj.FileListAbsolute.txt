@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\for-loop\character sequence\bin\Debug\netcoreapp3.0\character sequence.exe
+C:\Users\Xan\source\repos\for-loop\character sequence\bin\Debug\netcoreapp3.0\character sequence.deps.json
+C:\Users\Xan\source\repos\for-loop\character sequence\bin\Debug\netcoreapp3.0\character sequence.runtimeconfig.json
+C:\Users\Xan\source\repos\for-loop\character sequence\bin\Debug\netcoreapp3.0\character sequence.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\for-loop\character sequence\bin\Debug\netcoreapp3.0\character sequence.dll
+C:\Users\Xan\source\repos\for-loop\character sequence\bin\Debug\netcoreapp3.0\character sequence.pdb
+C:\Users\Xan\source\repos\for-loop\character sequence\obj\Debug\netcoreapp3.0\character sequence.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\for-loop\character sequence\obj\Debug\netcoreapp3.0\character sequence.AssemblyInfo.cs
+C:\Users\Xan\source\repos\for-loop\character sequence\obj\Debug\netcoreapp3.0\character sequence.dll
+C:\Users\Xan\source\repos\for-loop\character sequence\obj\Debug\netcoreapp3.0\character sequence.pdb

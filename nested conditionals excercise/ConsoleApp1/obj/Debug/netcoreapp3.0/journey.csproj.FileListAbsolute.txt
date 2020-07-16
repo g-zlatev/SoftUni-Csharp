@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\nested conditionals excercise\ConsoleApp1\bin\Debug\netcoreapp3.0\journey.exe
+C:\Users\Xan\source\repos\nested conditionals excercise\ConsoleApp1\bin\Debug\netcoreapp3.0\journey.deps.json
+C:\Users\Xan\source\repos\nested conditionals excercise\ConsoleApp1\bin\Debug\netcoreapp3.0\journey.runtimeconfig.json
+C:\Users\Xan\source\repos\nested conditionals excercise\ConsoleApp1\bin\Debug\netcoreapp3.0\journey.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\nested conditionals excercise\ConsoleApp1\bin\Debug\netcoreapp3.0\journey.dll
+C:\Users\Xan\source\repos\nested conditionals excercise\ConsoleApp1\bin\Debug\netcoreapp3.0\journey.pdb
+C:\Users\Xan\source\repos\nested conditionals excercise\ConsoleApp1\obj\Debug\netcoreapp3.0\journey.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\nested conditionals excercise\ConsoleApp1\obj\Debug\netcoreapp3.0\journey.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\nested conditionals excercise\ConsoleApp1\obj\Debug\netcoreapp3.0\journey.AssemblyInfo.cs
+C:\Users\Xan\source\repos\nested conditionals excercise\ConsoleApp1\obj\Debug\netcoreapp3.0\journey.dll
+C:\Users\Xan\source\repos\nested conditionals excercise\ConsoleApp1\obj\Debug\netcoreapp3.0\journey.pdb

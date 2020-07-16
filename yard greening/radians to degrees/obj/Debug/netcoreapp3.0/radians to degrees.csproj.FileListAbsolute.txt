@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\yard greening\radians to degrees\bin\Debug\netcoreapp3.0\radians to degrees.exe
+C:\Users\Xan\source\repos\yard greening\radians to degrees\bin\Debug\netcoreapp3.0\radians to degrees.deps.json
+C:\Users\Xan\source\repos\yard greening\radians to degrees\bin\Debug\netcoreapp3.0\radians to degrees.runtimeconfig.json
+C:\Users\Xan\source\repos\yard greening\radians to degrees\bin\Debug\netcoreapp3.0\radians to degrees.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\yard greening\radians to degrees\bin\Debug\netcoreapp3.0\radians to degrees.dll
+C:\Users\Xan\source\repos\yard greening\radians to degrees\bin\Debug\netcoreapp3.0\radians to degrees.pdb
+C:\Users\Xan\source\repos\yard greening\radians to degrees\obj\Debug\netcoreapp3.0\radians to degrees.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\yard greening\radians to degrees\obj\Debug\netcoreapp3.0\radians to degrees.AssemblyInfo.cs
+C:\Users\Xan\source\repos\yard greening\radians to degrees\obj\Debug\netcoreapp3.0\radians to degrees.dll
+C:\Users\Xan\source\repos\yard greening\radians to degrees\obj\Debug\netcoreapp3.0\radians to degrees.pdb

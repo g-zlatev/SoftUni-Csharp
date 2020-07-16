@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "godzilla vs kong/1.0.0": {
+        "runtime": {
+          "godzilla vs kong.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "godzilla vs kong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

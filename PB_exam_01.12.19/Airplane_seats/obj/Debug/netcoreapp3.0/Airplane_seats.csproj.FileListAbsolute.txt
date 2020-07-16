@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Airplane_seats\bin\Debug\netcoreapp3.0\Airplane_seats.exe
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Airplane_seats\bin\Debug\netcoreapp3.0\Airplane_seats.deps.json
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Airplane_seats\bin\Debug\netcoreapp3.0\Airplane_seats.runtimeconfig.json
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Airplane_seats\bin\Debug\netcoreapp3.0\Airplane_seats.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Airplane_seats\bin\Debug\netcoreapp3.0\Airplane_seats.dll
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Airplane_seats\bin\Debug\netcoreapp3.0\Airplane_seats.pdb
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Airplane_seats\obj\Debug\netcoreapp3.0\Airplane_seats.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Airplane_seats\obj\Debug\netcoreapp3.0\Airplane_seats.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Airplane_seats\obj\Debug\netcoreapp3.0\Airplane_seats.AssemblyInfo.cs
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Airplane_seats\obj\Debug\netcoreapp3.0\Airplane_seats.dll
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Airplane_seats\obj\Debug\netcoreapp3.0\Airplane_seats.pdb

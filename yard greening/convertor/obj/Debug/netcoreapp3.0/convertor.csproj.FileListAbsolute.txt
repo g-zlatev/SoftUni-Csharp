@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\yard greening\convertor\bin\Debug\netcoreapp3.0\convertor.exe
+C:\Users\Xan\source\repos\yard greening\convertor\bin\Debug\netcoreapp3.0\convertor.deps.json
+C:\Users\Xan\source\repos\yard greening\convertor\bin\Debug\netcoreapp3.0\convertor.runtimeconfig.json
+C:\Users\Xan\source\repos\yard greening\convertor\bin\Debug\netcoreapp3.0\convertor.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\yard greening\convertor\bin\Debug\netcoreapp3.0\convertor.dll
+C:\Users\Xan\source\repos\yard greening\convertor\bin\Debug\netcoreapp3.0\convertor.pdb
+C:\Users\Xan\source\repos\yard greening\convertor\obj\Debug\netcoreapp3.0\convertor.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\yard greening\convertor\obj\Debug\netcoreapp3.0\convertor.AssemblyInfo.cs
+C:\Users\Xan\source\repos\yard greening\convertor\obj\Debug\netcoreapp3.0\convertor.dll
+C:\Users\Xan\source\repos\yard greening\convertor\obj\Debug\netcoreapp3.0\convertor.pdb

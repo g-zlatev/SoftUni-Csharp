@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Airplane_seats/1.0.0": {
+        "runtime": {
+          "Airplane_seats.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Airplane_seats/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

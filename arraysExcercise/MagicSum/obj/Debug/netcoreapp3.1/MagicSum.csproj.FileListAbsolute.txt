@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\arraysExcercise\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.exe
+C:\Users\Xan\source\repos\arraysExcercise\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.deps.json
+C:\Users\Xan\source\repos\arraysExcercise\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.runtimeconfig.json
+C:\Users\Xan\source\repos\arraysExcercise\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\arraysExcercise\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.dll
+C:\Users\Xan\source\repos\arraysExcercise\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.pdb
+C:\Users\Xan\source\repos\arraysExcercise\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\arraysExcercise\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.AssemblyInfo.cs
+C:\Users\Xan\source\repos\arraysExcercise\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.dll
+C:\Users\Xan\source\repos\arraysExcercise\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.pdb

@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\nested conditionals excercise\Fishing boat\bin\Debug\netcoreapp3.0\Fishing boat.exe
+C:\Users\Xan\source\repos\nested conditionals excercise\Fishing boat\bin\Debug\netcoreapp3.0\Fishing boat.deps.json
+C:\Users\Xan\source\repos\nested conditionals excercise\Fishing boat\bin\Debug\netcoreapp3.0\Fishing boat.runtimeconfig.json
+C:\Users\Xan\source\repos\nested conditionals excercise\Fishing boat\bin\Debug\netcoreapp3.0\Fishing boat.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\nested conditionals excercise\Fishing boat\bin\Debug\netcoreapp3.0\Fishing boat.dll
+C:\Users\Xan\source\repos\nested conditionals excercise\Fishing boat\bin\Debug\netcoreapp3.0\Fishing boat.pdb
+C:\Users\Xan\source\repos\nested conditionals excercise\Fishing boat\obj\Debug\netcoreapp3.0\Fishing boat.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\nested conditionals excercise\Fishing boat\obj\Debug\netcoreapp3.0\Fishing boat.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\nested conditionals excercise\Fishing boat\obj\Debug\netcoreapp3.0\Fishing boat.AssemblyInfo.cs
+C:\Users\Xan\source\repos\nested conditionals excercise\Fishing boat\obj\Debug\netcoreapp3.0\Fishing boat.dll
+C:\Users\Xan\source\repos\nested conditionals excercise\Fishing boat\obj\Debug\netcoreapp3.0\Fishing boat.pdb

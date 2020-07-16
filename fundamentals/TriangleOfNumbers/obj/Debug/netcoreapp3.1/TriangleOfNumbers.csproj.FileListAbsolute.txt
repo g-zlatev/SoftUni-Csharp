@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\fundamentals\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.exe
+C:\Users\Xan\source\repos\fundamentals\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.deps.json
+C:\Users\Xan\source\repos\fundamentals\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.runtimeconfig.json
+C:\Users\Xan\source\repos\fundamentals\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\fundamentals\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.dll
+C:\Users\Xan\source\repos\fundamentals\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.pdb
+C:\Users\Xan\source\repos\fundamentals\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\fundamentals\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.AssemblyInfo.cs
+C:\Users\Xan\source\repos\fundamentals\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.dll
+C:\Users\Xan\source\repos\fundamentals\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.pdb

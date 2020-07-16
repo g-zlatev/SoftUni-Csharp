@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\ConsoleApp4\Project creation\bin\Debug\netcoreapp3.0\Project creation.exe
+C:\Users\Xan\source\repos\ConsoleApp4\Project creation\bin\Debug\netcoreapp3.0\Project creation.deps.json
+C:\Users\Xan\source\repos\ConsoleApp4\Project creation\bin\Debug\netcoreapp3.0\Project creation.runtimeconfig.json
+C:\Users\Xan\source\repos\ConsoleApp4\Project creation\bin\Debug\netcoreapp3.0\Project creation.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\ConsoleApp4\Project creation\bin\Debug\netcoreapp3.0\Project creation.dll
+C:\Users\Xan\source\repos\ConsoleApp4\Project creation\bin\Debug\netcoreapp3.0\Project creation.pdb
+C:\Users\Xan\source\repos\ConsoleApp4\Project creation\obj\Debug\netcoreapp3.0\Project creation.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\ConsoleApp4\Project creation\obj\Debug\netcoreapp3.0\Project creation.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\ConsoleApp4\Project creation\obj\Debug\netcoreapp3.0\Project creation.AssemblyInfo.cs
+C:\Users\Xan\source\repos\ConsoleApp4\Project creation\obj\Debug\netcoreapp3.0\Project creation.dll
+C:\Users\Xan\source\repos\ConsoleApp4\Project creation\obj\Debug\netcoreapp3.0\Project creation.pdb

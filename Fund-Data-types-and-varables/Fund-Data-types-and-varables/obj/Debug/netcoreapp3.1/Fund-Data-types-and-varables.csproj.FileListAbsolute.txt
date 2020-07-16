@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\Fund-Data-types-and-varables\bin\Debug\netcoreapp3.1\Fund-Data-types-and-varables.exe
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\Fund-Data-types-and-varables\bin\Debug\netcoreapp3.1\Fund-Data-types-and-varables.deps.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\Fund-Data-types-and-varables\bin\Debug\netcoreapp3.1\Fund-Data-types-and-varables.runtimeconfig.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\Fund-Data-types-and-varables\bin\Debug\netcoreapp3.1\Fund-Data-types-and-varables.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\Fund-Data-types-and-varables\bin\Debug\netcoreapp3.1\Fund-Data-types-and-varables.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\Fund-Data-types-and-varables\bin\Debug\netcoreapp3.1\Fund-Data-types-and-varables.pdb
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\Fund-Data-types-and-varables\obj\Debug\netcoreapp3.1\Fund-Data-types-and-varables.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\Fund-Data-types-and-varables\obj\Debug\netcoreapp3.1\Fund-Data-types-and-varables.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\Fund-Data-types-and-varables\obj\Debug\netcoreapp3.1\Fund-Data-types-and-varables.AssemblyInfo.cs
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\Fund-Data-types-and-varables\obj\Debug\netcoreapp3.1\Fund-Data-types-and-varables.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\Fund-Data-types-and-varables\obj\Debug\netcoreapp3.1\Fund-Data-types-and-varables.pdb

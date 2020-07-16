@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\Methods-Excercise\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.exe
+C:\Users\Xan\source\repos\Methods-Excercise\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.deps.json
+C:\Users\Xan\source\repos\Methods-Excercise\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.runtimeconfig.json
+C:\Users\Xan\source\repos\Methods-Excercise\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\Methods-Excercise\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.dll
+C:\Users\Xan\source\repos\Methods-Excercise\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.pdb
+C:\Users\Xan\source\repos\Methods-Excercise\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\Methods-Excercise\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.AssemblyInfo.cs
+C:\Users\Xan\source\repos\Methods-Excercise\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.dll
+C:\Users\Xan\source\repos\Methods-Excercise\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.pdb

@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\while-loop\max number\bin\Debug\netcoreapp3.0\max number.exe
+C:\Users\Xan\source\repos\while-loop\max number\bin\Debug\netcoreapp3.0\max number.deps.json
+C:\Users\Xan\source\repos\while-loop\max number\bin\Debug\netcoreapp3.0\max number.runtimeconfig.json
+C:\Users\Xan\source\repos\while-loop\max number\bin\Debug\netcoreapp3.0\max number.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\while-loop\max number\bin\Debug\netcoreapp3.0\max number.dll
+C:\Users\Xan\source\repos\while-loop\max number\bin\Debug\netcoreapp3.0\max number.pdb
+C:\Users\Xan\source\repos\while-loop\max number\obj\Debug\netcoreapp3.0\max number.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\while-loop\max number\obj\Debug\netcoreapp3.0\max number.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\while-loop\max number\obj\Debug\netcoreapp3.0\max number.AssemblyInfo.cs
+C:\Users\Xan\source\repos\while-loop\max number\obj\Debug\netcoreapp3.0\max number.dll
+C:\Users\Xan\source\repos\while-loop\max number\obj\Debug\netcoreapp3.0\max number.pdb

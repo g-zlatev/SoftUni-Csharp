@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\water-overflow\bin\Debug\netcoreapp3.1\water-overflow.exe
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\water-overflow\bin\Debug\netcoreapp3.1\water-overflow.deps.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\water-overflow\bin\Debug\netcoreapp3.1\water-overflow.runtimeconfig.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\water-overflow\bin\Debug\netcoreapp3.1\water-overflow.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\water-overflow\bin\Debug\netcoreapp3.1\water-overflow.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\water-overflow\bin\Debug\netcoreapp3.1\water-overflow.pdb
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\water-overflow\obj\Debug\netcoreapp3.1\water-overflow.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\water-overflow\obj\Debug\netcoreapp3.1\water-overflow.AssemblyInfo.cs
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\water-overflow\obj\Debug\netcoreapp3.1\water-overflow.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\water-overflow\obj\Debug\netcoreapp3.1\water-overflow.pdb

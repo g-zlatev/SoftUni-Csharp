@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\ConsoleApp4\Square Area\bin\Debug\netcoreapp3.0\Square Area.exe
+C:\Users\Xan\source\repos\ConsoleApp4\Square Area\bin\Debug\netcoreapp3.0\Square Area.deps.json
+C:\Users\Xan\source\repos\ConsoleApp4\Square Area\bin\Debug\netcoreapp3.0\Square Area.runtimeconfig.json
+C:\Users\Xan\source\repos\ConsoleApp4\Square Area\bin\Debug\netcoreapp3.0\Square Area.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\ConsoleApp4\Square Area\bin\Debug\netcoreapp3.0\Square Area.dll
+C:\Users\Xan\source\repos\ConsoleApp4\Square Area\bin\Debug\netcoreapp3.0\Square Area.pdb
+C:\Users\Xan\source\repos\ConsoleApp4\Square Area\obj\Debug\netcoreapp3.0\Square Area.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\ConsoleApp4\Square Area\obj\Debug\netcoreapp3.0\Square Area.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\ConsoleApp4\Square Area\obj\Debug\netcoreapp3.0\Square Area.AssemblyInfo.cs
+C:\Users\Xan\source\repos\ConsoleApp4\Square Area\obj\Debug\netcoreapp3.0\Square Area.dll
+C:\Users\Xan\source\repos\ConsoleApp4\Square Area\obj\Debug\netcoreapp3.0\Square Area.pdb

@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\ExamPrep\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.deps.json
+C:\Users\Xan\source\repos\ExamPrep\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.json
+C:\Users\Xan\source\repos\ExamPrep\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\ExamPrep\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.dll
+C:\Users\Xan\source\repos\ExamPrep\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.pdb
+C:\Users\Xan\source\repos\ExamPrep\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\ExamPrep\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\ExamPrep\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfo.cs
+C:\Users\Xan\source\repos\ExamPrep\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.dll
+C:\Users\Xan\source\repos\ExamPrep\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.pdb

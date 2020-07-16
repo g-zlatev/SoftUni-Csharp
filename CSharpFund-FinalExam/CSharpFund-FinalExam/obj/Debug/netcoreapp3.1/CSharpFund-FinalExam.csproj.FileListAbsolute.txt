@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\CSharpFund-FinalExam\bin\Debug\netcoreapp3.1\CSharpFund-FinalExam.exe
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\CSharpFund-FinalExam\bin\Debug\netcoreapp3.1\CSharpFund-FinalExam.deps.json
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\CSharpFund-FinalExam\bin\Debug\netcoreapp3.1\CSharpFund-FinalExam.runtimeconfig.json
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\CSharpFund-FinalExam\bin\Debug\netcoreapp3.1\CSharpFund-FinalExam.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\CSharpFund-FinalExam\bin\Debug\netcoreapp3.1\CSharpFund-FinalExam.dll
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\CSharpFund-FinalExam\bin\Debug\netcoreapp3.1\CSharpFund-FinalExam.pdb
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\CSharpFund-FinalExam\obj\Debug\netcoreapp3.1\CSharpFund-FinalExam.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\CSharpFund-FinalExam\obj\Debug\netcoreapp3.1\CSharpFund-FinalExam.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\CSharpFund-FinalExam\obj\Debug\netcoreapp3.1\CSharpFund-FinalExam.AssemblyInfo.cs
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\CSharpFund-FinalExam\obj\Debug\netcoreapp3.1\CSharpFund-FinalExam.dll
+C:\Users\Xan\source\repos\CSharpFund-FinalExam\CSharpFund-FinalExam\obj\Debug\netcoreapp3.1\CSharpFund-FinalExam.pdb

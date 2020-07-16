@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\conditional statements\odd and even\bin\Debug\netcoreapp3.0\odd and even.exe
+C:\Users\Xan\source\repos\conditional statements\odd and even\bin\Debug\netcoreapp3.0\odd and even.deps.json
+C:\Users\Xan\source\repos\conditional statements\odd and even\bin\Debug\netcoreapp3.0\odd and even.runtimeconfig.json
+C:\Users\Xan\source\repos\conditional statements\odd and even\bin\Debug\netcoreapp3.0\odd and even.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\conditional statements\odd and even\bin\Debug\netcoreapp3.0\odd and even.dll
+C:\Users\Xan\source\repos\conditional statements\odd and even\bin\Debug\netcoreapp3.0\odd and even.pdb
+C:\Users\Xan\source\repos\conditional statements\odd and even\obj\Debug\netcoreapp3.0\odd and even.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\conditional statements\odd and even\obj\Debug\netcoreapp3.0\odd and even.AssemblyInfo.cs
+C:\Users\Xan\source\repos\conditional statements\odd and even\obj\Debug\netcoreapp3.0\odd and even.dll
+C:\Users\Xan\source\repos\conditional statements\odd and even\obj\Debug\netcoreapp3.0\odd and even.pdb

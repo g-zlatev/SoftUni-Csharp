@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Book-a-flight\bin\Debug\netcoreapp3.0\Book-a-flight.exe
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Book-a-flight\bin\Debug\netcoreapp3.0\Book-a-flight.deps.json
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Book-a-flight\bin\Debug\netcoreapp3.0\Book-a-flight.runtimeconfig.json
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Book-a-flight\bin\Debug\netcoreapp3.0\Book-a-flight.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Book-a-flight\bin\Debug\netcoreapp3.0\Book-a-flight.dll
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Book-a-flight\bin\Debug\netcoreapp3.0\Book-a-flight.pdb
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Book-a-flight\obj\Debug\netcoreapp3.0\Book-a-flight.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Book-a-flight\obj\Debug\netcoreapp3.0\Book-a-flight.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Book-a-flight\obj\Debug\netcoreapp3.0\Book-a-flight.AssemblyInfo.cs
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Book-a-flight\obj\Debug\netcoreapp3.0\Book-a-flight.dll
+C:\Users\Xan\source\repos\PB_exam_01.12.19\Book-a-flight\obj\Debug\netcoreapp3.0\Book-a-flight.pdb

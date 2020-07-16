@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\elevator\bin\Debug\netcoreapp3.1\elevator.exe
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\elevator\bin\Debug\netcoreapp3.1\elevator.deps.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\elevator\bin\Debug\netcoreapp3.1\elevator.runtimeconfig.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\elevator\bin\Debug\netcoreapp3.1\elevator.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\elevator\bin\Debug\netcoreapp3.1\elevator.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\elevator\bin\Debug\netcoreapp3.1\elevator.pdb
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\elevator\obj\Debug\netcoreapp3.1\elevator.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\elevator\obj\Debug\netcoreapp3.1\elevator.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\elevator\obj\Debug\netcoreapp3.1\elevator.AssemblyInfo.cs
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\elevator\obj\Debug\netcoreapp3.1\elevator.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\elevator\obj\Debug\netcoreapp3.1\elevator.pdb

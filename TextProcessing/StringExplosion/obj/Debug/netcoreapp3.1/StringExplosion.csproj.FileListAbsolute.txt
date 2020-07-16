@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\TextProcessing\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.exe
+C:\Users\Xan\source\repos\TextProcessing\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.deps.json
+C:\Users\Xan\source\repos\TextProcessing\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.runtimeconfig.json
+C:\Users\Xan\source\repos\TextProcessing\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\TextProcessing\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.dll
+C:\Users\Xan\source\repos\TextProcessing\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.pdb
+C:\Users\Xan\source\repos\TextProcessing\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\TextProcessing\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\TextProcessing\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.AssemblyInfo.cs
+C:\Users\Xan\source\repos\TextProcessing\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.dll
+C:\Users\Xan\source\repos\TextProcessing\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.pdb

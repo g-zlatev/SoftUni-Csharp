@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\Metods\ConsoleApp2\bin\Debug\netcoreapp3.1\Grades.exe
+C:\Users\Xan\source\repos\Metods\ConsoleApp2\bin\Debug\netcoreapp3.1\Grades.deps.json
+C:\Users\Xan\source\repos\Metods\ConsoleApp2\bin\Debug\netcoreapp3.1\Grades.runtimeconfig.json
+C:\Users\Xan\source\repos\Metods\ConsoleApp2\bin\Debug\netcoreapp3.1\Grades.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\Metods\ConsoleApp2\bin\Debug\netcoreapp3.1\Grades.dll
+C:\Users\Xan\source\repos\Metods\ConsoleApp2\bin\Debug\netcoreapp3.1\Grades.pdb
+C:\Users\Xan\source\repos\Metods\ConsoleApp2\obj\Debug\netcoreapp3.1\Grades.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\Metods\ConsoleApp2\obj\Debug\netcoreapp3.1\Grades.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\Metods\ConsoleApp2\obj\Debug\netcoreapp3.1\Grades.AssemblyInfo.cs
+C:\Users\Xan\source\repos\Metods\ConsoleApp2\obj\Debug\netcoreapp3.1\Grades.dll
+C:\Users\Xan\source\repos\Metods\ConsoleApp2\obj\Debug\netcoreapp3.1\Grades.pdb

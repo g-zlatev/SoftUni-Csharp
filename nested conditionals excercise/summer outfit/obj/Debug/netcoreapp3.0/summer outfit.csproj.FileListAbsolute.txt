@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\nested conditionals excercise\summer outfit\bin\Debug\netcoreapp3.0\summer outfit.exe
+C:\Users\Xan\source\repos\nested conditionals excercise\summer outfit\bin\Debug\netcoreapp3.0\summer outfit.deps.json
+C:\Users\Xan\source\repos\nested conditionals excercise\summer outfit\bin\Debug\netcoreapp3.0\summer outfit.runtimeconfig.json
+C:\Users\Xan\source\repos\nested conditionals excercise\summer outfit\bin\Debug\netcoreapp3.0\summer outfit.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\nested conditionals excercise\summer outfit\bin\Debug\netcoreapp3.0\summer outfit.dll
+C:\Users\Xan\source\repos\nested conditionals excercise\summer outfit\bin\Debug\netcoreapp3.0\summer outfit.pdb
+C:\Users\Xan\source\repos\nested conditionals excercise\summer outfit\obj\Debug\netcoreapp3.0\summer outfit.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\nested conditionals excercise\summer outfit\obj\Debug\netcoreapp3.0\summer outfit.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\nested conditionals excercise\summer outfit\obj\Debug\netcoreapp3.0\summer outfit.AssemblyInfo.cs
+C:\Users\Xan\source\repos\nested conditionals excercise\summer outfit\obj\Debug\netcoreapp3.0\summer outfit.dll
+C:\Users\Xan\source\repos\nested conditionals excercise\summer outfit\obj\Debug\netcoreapp3.0\summer outfit.pdb

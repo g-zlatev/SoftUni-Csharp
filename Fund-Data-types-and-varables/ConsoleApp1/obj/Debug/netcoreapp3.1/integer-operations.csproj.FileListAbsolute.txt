@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\ConsoleApp1\bin\Debug\netcoreapp3.1\integer-operations.exe
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\ConsoleApp1\bin\Debug\netcoreapp3.1\integer-operations.deps.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\ConsoleApp1\bin\Debug\netcoreapp3.1\integer-operations.runtimeconfig.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\ConsoleApp1\bin\Debug\netcoreapp3.1\integer-operations.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\ConsoleApp1\bin\Debug\netcoreapp3.1\integer-operations.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\ConsoleApp1\bin\Debug\netcoreapp3.1\integer-operations.pdb
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\ConsoleApp1\obj\Debug\netcoreapp3.1\integer-operations.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\ConsoleApp1\obj\Debug\netcoreapp3.1\integer-operations.AssemblyInfo.cs
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\ConsoleApp1\obj\Debug\netcoreapp3.1\integer-operations.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\ConsoleApp1\obj\Debug\netcoreapp3.1\integer-operations.pdb

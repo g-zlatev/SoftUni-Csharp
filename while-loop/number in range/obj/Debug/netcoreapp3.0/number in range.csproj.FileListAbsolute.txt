@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\while-loop\number in range\obj\Debug\netcoreapp3.0\number in range.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\while-loop\number in range\obj\Debug\netcoreapp3.0\number in range.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\while-loop\number in range\obj\Debug\netcoreapp3.0\number in range.AssemblyInfo.cs
+C:\Users\Xan\source\repos\while-loop\number in range\bin\Debug\netcoreapp3.0\number in range.exe
+C:\Users\Xan\source\repos\while-loop\number in range\bin\Debug\netcoreapp3.0\number in range.deps.json
+C:\Users\Xan\source\repos\while-loop\number in range\bin\Debug\netcoreapp3.0\number in range.runtimeconfig.json
+C:\Users\Xan\source\repos\while-loop\number in range\bin\Debug\netcoreapp3.0\number in range.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\while-loop\number in range\bin\Debug\netcoreapp3.0\number in range.dll
+C:\Users\Xan\source\repos\while-loop\number in range\bin\Debug\netcoreapp3.0\number in range.pdb
+C:\Users\Xan\source\repos\while-loop\number in range\obj\Debug\netcoreapp3.0\number in range.dll
+C:\Users\Xan\source\repos\while-loop\number in range\obj\Debug\netcoreapp3.0\number in range.pdb

@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\fundamentals\strong_number\bin\Debug\netcoreapp3.1\strong_number.exe
+C:\Users\Xan\source\repos\fundamentals\strong_number\bin\Debug\netcoreapp3.1\strong_number.deps.json
+C:\Users\Xan\source\repos\fundamentals\strong_number\bin\Debug\netcoreapp3.1\strong_number.runtimeconfig.json
+C:\Users\Xan\source\repos\fundamentals\strong_number\bin\Debug\netcoreapp3.1\strong_number.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\fundamentals\strong_number\bin\Debug\netcoreapp3.1\strong_number.dll
+C:\Users\Xan\source\repos\fundamentals\strong_number\bin\Debug\netcoreapp3.1\strong_number.pdb
+C:\Users\Xan\source\repos\fundamentals\strong_number\obj\Debug\netcoreapp3.1\strong_number.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\fundamentals\strong_number\obj\Debug\netcoreapp3.1\strong_number.AssemblyInfo.cs
+C:\Users\Xan\source\repos\fundamentals\strong_number\obj\Debug\netcoreapp3.1\strong_number.dll
+C:\Users\Xan\source\repos\fundamentals\strong_number\obj\Debug\netcoreapp3.1\strong_number.pdb
+C:\Users\Xan\source\repos\fundamentals\strong_number\obj\Debug\netcoreapp3.1\strong_number.csprojAssemblyReference.cache

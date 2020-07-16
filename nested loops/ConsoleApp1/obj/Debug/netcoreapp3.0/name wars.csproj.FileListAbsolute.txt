@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\nested loops\ConsoleApp1\bin\Debug\netcoreapp3.0\name wars.exe
+C:\Users\Xan\source\repos\nested loops\ConsoleApp1\bin\Debug\netcoreapp3.0\name wars.deps.json
+C:\Users\Xan\source\repos\nested loops\ConsoleApp1\bin\Debug\netcoreapp3.0\name wars.runtimeconfig.json
+C:\Users\Xan\source\repos\nested loops\ConsoleApp1\bin\Debug\netcoreapp3.0\name wars.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\nested loops\ConsoleApp1\bin\Debug\netcoreapp3.0\name wars.dll
+C:\Users\Xan\source\repos\nested loops\ConsoleApp1\bin\Debug\netcoreapp3.0\name wars.pdb
+C:\Users\Xan\source\repos\nested loops\ConsoleApp1\obj\Debug\netcoreapp3.0\name wars.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\nested loops\ConsoleApp1\obj\Debug\netcoreapp3.0\name wars.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\nested loops\ConsoleApp1\obj\Debug\netcoreapp3.0\name wars.AssemblyInfo.cs
+C:\Users\Xan\source\repos\nested loops\ConsoleApp1\obj\Debug\netcoreapp3.0\name wars.dll
+C:\Users\Xan\source\repos\nested loops\ConsoleApp1\obj\Debug\netcoreapp3.0\name wars.pdb

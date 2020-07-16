@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\nested loops\ConsoleApp2\bin\Debug\netcoreapp3.0\building.exe
+C:\Users\Xan\source\repos\nested loops\ConsoleApp2\bin\Debug\netcoreapp3.0\building.deps.json
+C:\Users\Xan\source\repos\nested loops\ConsoleApp2\bin\Debug\netcoreapp3.0\building.runtimeconfig.json
+C:\Users\Xan\source\repos\nested loops\ConsoleApp2\bin\Debug\netcoreapp3.0\building.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\nested loops\ConsoleApp2\bin\Debug\netcoreapp3.0\building.dll
+C:\Users\Xan\source\repos\nested loops\ConsoleApp2\bin\Debug\netcoreapp3.0\building.pdb
+C:\Users\Xan\source\repos\nested loops\ConsoleApp2\obj\Debug\netcoreapp3.0\building.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\nested loops\ConsoleApp2\obj\Debug\netcoreapp3.0\building.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\nested loops\ConsoleApp2\obj\Debug\netcoreapp3.0\building.AssemblyInfo.cs
+C:\Users\Xan\source\repos\nested loops\ConsoleApp2\obj\Debug\netcoreapp3.0\building.dll
+C:\Users\Xan\source\repos\nested loops\ConsoleApp2\obj\Debug\netcoreapp3.0\building.pdb

@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\conditional statements excercise\speed info\bin\Debug\netcoreapp3.0\speed info.exe
+C:\Users\Xan\source\repos\conditional statements excercise\speed info\bin\Debug\netcoreapp3.0\speed info.deps.json
+C:\Users\Xan\source\repos\conditional statements excercise\speed info\bin\Debug\netcoreapp3.0\speed info.runtimeconfig.json
+C:\Users\Xan\source\repos\conditional statements excercise\speed info\bin\Debug\netcoreapp3.0\speed info.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\conditional statements excercise\speed info\bin\Debug\netcoreapp3.0\speed info.dll
+C:\Users\Xan\source\repos\conditional statements excercise\speed info\bin\Debug\netcoreapp3.0\speed info.pdb
+C:\Users\Xan\source\repos\conditional statements excercise\speed info\obj\Debug\netcoreapp3.0\speed info.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\conditional statements excercise\speed info\obj\Debug\netcoreapp3.0\speed info.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\conditional statements excercise\speed info\obj\Debug\netcoreapp3.0\speed info.AssemblyInfo.cs
+C:\Users\Xan\source\repos\conditional statements excercise\speed info\obj\Debug\netcoreapp3.0\speed info.dll
+C:\Users\Xan\source\repos\conditional statements excercise\speed info\obj\Debug\netcoreapp3.0\speed info.pdb

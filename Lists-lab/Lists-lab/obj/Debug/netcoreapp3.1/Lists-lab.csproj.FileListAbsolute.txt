@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\Lists-lab\Lists-lab\bin\Debug\netcoreapp3.1\Lists-lab.exe
+C:\Users\Xan\source\repos\Lists-lab\Lists-lab\bin\Debug\netcoreapp3.1\Lists-lab.deps.json
+C:\Users\Xan\source\repos\Lists-lab\Lists-lab\bin\Debug\netcoreapp3.1\Lists-lab.runtimeconfig.json
+C:\Users\Xan\source\repos\Lists-lab\Lists-lab\bin\Debug\netcoreapp3.1\Lists-lab.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\Lists-lab\Lists-lab\bin\Debug\netcoreapp3.1\Lists-lab.dll
+C:\Users\Xan\source\repos\Lists-lab\Lists-lab\bin\Debug\netcoreapp3.1\Lists-lab.pdb
+C:\Users\Xan\source\repos\Lists-lab\Lists-lab\obj\Debug\netcoreapp3.1\Lists-lab.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\Lists-lab\Lists-lab\obj\Debug\netcoreapp3.1\Lists-lab.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\Lists-lab\Lists-lab\obj\Debug\netcoreapp3.1\Lists-lab.AssemblyInfo.cs
+C:\Users\Xan\source\repos\Lists-lab\Lists-lab\obj\Debug\netcoreapp3.1\Lists-lab.dll
+C:\Users\Xan\source\repos\Lists-lab\Lists-lab\obj\Debug\netcoreapp3.1\Lists-lab.pdb

@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\exam test\Shaceship\bin\Debug\netcoreapp3.0\Shaceship.exe
+C:\Users\Xan\source\repos\exam test\Shaceship\bin\Debug\netcoreapp3.0\Shaceship.deps.json
+C:\Users\Xan\source\repos\exam test\Shaceship\bin\Debug\netcoreapp3.0\Shaceship.runtimeconfig.json
+C:\Users\Xan\source\repos\exam test\Shaceship\bin\Debug\netcoreapp3.0\Shaceship.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\exam test\Shaceship\bin\Debug\netcoreapp3.0\Shaceship.dll
+C:\Users\Xan\source\repos\exam test\Shaceship\bin\Debug\netcoreapp3.0\Shaceship.pdb
+C:\Users\Xan\source\repos\exam test\Shaceship\obj\Debug\netcoreapp3.0\Shaceship.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\exam test\Shaceship\obj\Debug\netcoreapp3.0\Shaceship.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\exam test\Shaceship\obj\Debug\netcoreapp3.0\Shaceship.AssemblyInfo.cs
+C:\Users\Xan\source\repos\exam test\Shaceship\obj\Debug\netcoreapp3.0\Shaceship.dll
+C:\Users\Xan\source\repos\exam test\Shaceship\obj\Debug\netcoreapp3.0\Shaceship.pdb

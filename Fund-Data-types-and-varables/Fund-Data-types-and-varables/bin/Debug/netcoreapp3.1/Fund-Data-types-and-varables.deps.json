@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Fund-Data-types-and-varables/1.0.0": {
+        "runtime": {
+          "Fund-Data-types-and-varables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fund-Data-types-and-varables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefineClassPerson.exe
+C:\Users\Xan\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefineClassPerson.deps.json
+C:\Users\Xan\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefineClassPerson.runtimeconfig.json
+C:\Users\Xan\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefineClassPerson.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefineClassPerson.dll
+C:\Users\Xan\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefineClassPerson.pdb
+C:\Users\Xan\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefineClassPerson.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefineClassPerson.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefineClassPerson.AssemblyInfo.cs
+C:\Users\Xan\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefineClassPerson.dll
+C:\Users\Xan\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefineClassPerson.pdb

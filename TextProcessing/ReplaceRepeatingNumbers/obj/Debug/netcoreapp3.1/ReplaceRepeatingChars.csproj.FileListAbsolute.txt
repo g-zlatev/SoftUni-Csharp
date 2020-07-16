@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\TextProcessing\ReplaceRepeatingNumbers\bin\Debug\netcoreapp3.1\ReplaceRepeatingChars.exe
+C:\Users\Xan\source\repos\TextProcessing\ReplaceRepeatingNumbers\bin\Debug\netcoreapp3.1\ReplaceRepeatingChars.deps.json
+C:\Users\Xan\source\repos\TextProcessing\ReplaceRepeatingNumbers\bin\Debug\netcoreapp3.1\ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\Xan\source\repos\TextProcessing\ReplaceRepeatingNumbers\bin\Debug\netcoreapp3.1\ReplaceRepeatingChars.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\TextProcessing\ReplaceRepeatingNumbers\bin\Debug\netcoreapp3.1\ReplaceRepeatingChars.dll
+C:\Users\Xan\source\repos\TextProcessing\ReplaceRepeatingNumbers\bin\Debug\netcoreapp3.1\ReplaceRepeatingChars.pdb
+C:\Users\Xan\source\repos\TextProcessing\ReplaceRepeatingNumbers\obj\Debug\netcoreapp3.1\ReplaceRepeatingChars.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\TextProcessing\ReplaceRepeatingNumbers\obj\Debug\netcoreapp3.1\ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\TextProcessing\ReplaceRepeatingNumbers\obj\Debug\netcoreapp3.1\ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\Xan\source\repos\TextProcessing\ReplaceRepeatingNumbers\obj\Debug\netcoreapp3.1\ReplaceRepeatingChars.dll
+C:\Users\Xan\source\repos\TextProcessing\ReplaceRepeatingNumbers\obj\Debug\netcoreapp3.1\ReplaceRepeatingChars.pdb

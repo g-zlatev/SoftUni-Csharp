@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\PB_exam_01.12.19\PB_exam_01.12.19\bin\Debug\netcoreapp3.0\room painting.exe
+C:\Users\Xan\source\repos\PB_exam_01.12.19\PB_exam_01.12.19\bin\Debug\netcoreapp3.0\room painting.deps.json
+C:\Users\Xan\source\repos\PB_exam_01.12.19\PB_exam_01.12.19\bin\Debug\netcoreapp3.0\room painting.runtimeconfig.json
+C:\Users\Xan\source\repos\PB_exam_01.12.19\PB_exam_01.12.19\bin\Debug\netcoreapp3.0\room painting.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\PB_exam_01.12.19\PB_exam_01.12.19\bin\Debug\netcoreapp3.0\room painting.dll
+C:\Users\Xan\source\repos\PB_exam_01.12.19\PB_exam_01.12.19\bin\Debug\netcoreapp3.0\room painting.pdb
+C:\Users\Xan\source\repos\PB_exam_01.12.19\PB_exam_01.12.19\obj\Debug\netcoreapp3.0\room painting.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\PB_exam_01.12.19\PB_exam_01.12.19\obj\Debug\netcoreapp3.0\room painting.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\PB_exam_01.12.19\PB_exam_01.12.19\obj\Debug\netcoreapp3.0\room painting.AssemblyInfo.cs
+C:\Users\Xan\source\repos\PB_exam_01.12.19\PB_exam_01.12.19\obj\Debug\netcoreapp3.0\room painting.dll
+C:\Users\Xan\source\repos\PB_exam_01.12.19\PB_exam_01.12.19\obj\Debug\netcoreapp3.0\room painting.pdb

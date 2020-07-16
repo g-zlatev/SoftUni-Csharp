@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\ProgramCollection\ProgramCollection\bin\Debug\netcoreapp3.1\FriendlistMaintenance.exe
+C:\Users\Xan\source\repos\ProgramCollection\ProgramCollection\bin\Debug\netcoreapp3.1\FriendlistMaintenance.deps.json
+C:\Users\Xan\source\repos\ProgramCollection\ProgramCollection\bin\Debug\netcoreapp3.1\FriendlistMaintenance.runtimeconfig.json
+C:\Users\Xan\source\repos\ProgramCollection\ProgramCollection\bin\Debug\netcoreapp3.1\FriendlistMaintenance.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\ProgramCollection\ProgramCollection\bin\Debug\netcoreapp3.1\FriendlistMaintenance.dll
+C:\Users\Xan\source\repos\ProgramCollection\ProgramCollection\bin\Debug\netcoreapp3.1\FriendlistMaintenance.pdb
+C:\Users\Xan\source\repos\ProgramCollection\ProgramCollection\obj\Debug\netcoreapp3.1\FriendlistMaintenance.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\ProgramCollection\ProgramCollection\obj\Debug\netcoreapp3.1\FriendlistMaintenance.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\ProgramCollection\ProgramCollection\obj\Debug\netcoreapp3.1\FriendlistMaintenance.AssemblyInfo.cs
+C:\Users\Xan\source\repos\ProgramCollection\ProgramCollection\obj\Debug\netcoreapp3.1\FriendlistMaintenance.dll
+C:\Users\Xan\source\repos\ProgramCollection\ProgramCollection\obj\Debug\netcoreapp3.1\FriendlistMaintenance.pdb

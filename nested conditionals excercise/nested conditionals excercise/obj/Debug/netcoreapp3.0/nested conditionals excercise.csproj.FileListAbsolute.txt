@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\nested conditionals excercise\nested conditionals excercise\bin\Debug\netcoreapp3.0\nested conditionals excercise.exe
+C:\Users\Xan\source\repos\nested conditionals excercise\nested conditionals excercise\bin\Debug\netcoreapp3.0\nested conditionals excercise.deps.json
+C:\Users\Xan\source\repos\nested conditionals excercise\nested conditionals excercise\bin\Debug\netcoreapp3.0\nested conditionals excercise.runtimeconfig.json
+C:\Users\Xan\source\repos\nested conditionals excercise\nested conditionals excercise\bin\Debug\netcoreapp3.0\nested conditionals excercise.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\nested conditionals excercise\nested conditionals excercise\bin\Debug\netcoreapp3.0\nested conditionals excercise.dll
+C:\Users\Xan\source\repos\nested conditionals excercise\nested conditionals excercise\bin\Debug\netcoreapp3.0\nested conditionals excercise.pdb
+C:\Users\Xan\source\repos\nested conditionals excercise\nested conditionals excercise\obj\Debug\netcoreapp3.0\nested conditionals excercise.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\nested conditionals excercise\nested conditionals excercise\obj\Debug\netcoreapp3.0\nested conditionals excercise.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\nested conditionals excercise\nested conditionals excercise\obj\Debug\netcoreapp3.0\nested conditionals excercise.AssemblyInfo.cs
+C:\Users\Xan\source\repos\nested conditionals excercise\nested conditionals excercise\obj\Debug\netcoreapp3.0\nested conditionals excercise.dll
+C:\Users\Xan\source\repos\nested conditionals excercise\nested conditionals excercise\obj\Debug\netcoreapp3.0\nested conditionals excercise.pdb

@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\nested loops\sum of two numbers\bin\Debug\netcoreapp3.0\sum of two numbers.exe
+C:\Users\Xan\source\repos\nested loops\sum of two numbers\bin\Debug\netcoreapp3.0\sum of two numbers.deps.json
+C:\Users\Xan\source\repos\nested loops\sum of two numbers\bin\Debug\netcoreapp3.0\sum of two numbers.runtimeconfig.json
+C:\Users\Xan\source\repos\nested loops\sum of two numbers\bin\Debug\netcoreapp3.0\sum of two numbers.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\nested loops\sum of two numbers\bin\Debug\netcoreapp3.0\sum of two numbers.dll
+C:\Users\Xan\source\repos\nested loops\sum of two numbers\bin\Debug\netcoreapp3.0\sum of two numbers.pdb
+C:\Users\Xan\source\repos\nested loops\sum of two numbers\obj\Debug\netcoreapp3.0\sum of two numbers.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\nested loops\sum of two numbers\obj\Debug\netcoreapp3.0\sum of two numbers.AssemblyInfo.cs
+C:\Users\Xan\source\repos\nested loops\sum of two numbers\obj\Debug\netcoreapp3.0\sum of two numbers.dll
+C:\Users\Xan\source\repos\nested loops\sum of two numbers\obj\Debug\netcoreapp3.0\sum of two numbers.pdb

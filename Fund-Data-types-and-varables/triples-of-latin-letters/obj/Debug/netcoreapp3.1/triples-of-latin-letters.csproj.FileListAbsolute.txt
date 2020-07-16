@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\triples-of-latin-letters\bin\Debug\netcoreapp3.1\triples-of-latin-letters.exe
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\triples-of-latin-letters\bin\Debug\netcoreapp3.1\triples-of-latin-letters.deps.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\triples-of-latin-letters\bin\Debug\netcoreapp3.1\triples-of-latin-letters.runtimeconfig.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\triples-of-latin-letters\bin\Debug\netcoreapp3.1\triples-of-latin-letters.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\triples-of-latin-letters\bin\Debug\netcoreapp3.1\triples-of-latin-letters.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\triples-of-latin-letters\bin\Debug\netcoreapp3.1\triples-of-latin-letters.pdb
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\triples-of-latin-letters\obj\Debug\netcoreapp3.1\triples-of-latin-letters.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\triples-of-latin-letters\obj\Debug\netcoreapp3.1\triples-of-latin-letters.AssemblyInfo.cs
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\triples-of-latin-letters\obj\Debug\netcoreapp3.1\triples-of-latin-letters.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\triples-of-latin-letters\obj\Debug\netcoreapp3.1\triples-of-latin-letters.pdb
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\triples-of-latin-letters\obj\Debug\netcoreapp3.1\triples-of-latin-letters.csprojAssemblyReference.cache

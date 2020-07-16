@@ -1,0 +1,11 @@
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\print-ascii-table\bin\Debug\netcoreapp3.1\print-ascii-table.exe
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\print-ascii-table\bin\Debug\netcoreapp3.1\print-ascii-table.deps.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\print-ascii-table\bin\Debug\netcoreapp3.1\print-ascii-table.runtimeconfig.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\print-ascii-table\bin\Debug\netcoreapp3.1\print-ascii-table.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\print-ascii-table\bin\Debug\netcoreapp3.1\print-ascii-table.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\print-ascii-table\bin\Debug\netcoreapp3.1\print-ascii-table.pdb
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\print-ascii-table\obj\Debug\netcoreapp3.1\print-ascii-table.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\print-ascii-table\obj\Debug\netcoreapp3.1\print-ascii-table.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\print-ascii-table\obj\Debug\netcoreapp3.1\print-ascii-table.AssemblyInfo.cs
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\print-ascii-table\obj\Debug\netcoreapp3.1\print-ascii-table.dll
+C:\Users\Xan\source\repos\Fund-Data-types-and-varables\print-ascii-table\obj\Debug\netcoreapp3.1\print-ascii-table.pdb

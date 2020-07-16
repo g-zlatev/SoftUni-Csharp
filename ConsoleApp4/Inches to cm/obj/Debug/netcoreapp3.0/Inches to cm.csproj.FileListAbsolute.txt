@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\ConsoleApp4\Inches to cm\bin\Debug\netcoreapp3.0\Inches to cm.exe
+C:\Users\Xan\source\repos\ConsoleApp4\Inches to cm\bin\Debug\netcoreapp3.0\Inches to cm.deps.json
+C:\Users\Xan\source\repos\ConsoleApp4\Inches to cm\bin\Debug\netcoreapp3.0\Inches to cm.runtimeconfig.json
+C:\Users\Xan\source\repos\ConsoleApp4\Inches to cm\bin\Debug\netcoreapp3.0\Inches to cm.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\ConsoleApp4\Inches to cm\bin\Debug\netcoreapp3.0\Inches to cm.dll
+C:\Users\Xan\source\repos\ConsoleApp4\Inches to cm\bin\Debug\netcoreapp3.0\Inches to cm.pdb
+C:\Users\Xan\source\repos\ConsoleApp4\Inches to cm\obj\Debug\netcoreapp3.0\Inches to cm.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\ConsoleApp4\Inches to cm\obj\Debug\netcoreapp3.0\Inches to cm.AssemblyInfo.cs
+C:\Users\Xan\source\repos\ConsoleApp4\Inches to cm\obj\Debug\netcoreapp3.0\Inches to cm.dll
+C:\Users\Xan\source\repos\ConsoleApp4\Inches to cm\obj\Debug\netcoreapp3.0\Inches to cm.pdb

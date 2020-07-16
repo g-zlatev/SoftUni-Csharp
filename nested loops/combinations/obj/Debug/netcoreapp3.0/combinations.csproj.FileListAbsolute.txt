@@ -1,0 +1,10 @@
+C:\Users\Xan\source\repos\nested loops\combinations\bin\Debug\netcoreapp3.0\combinations.exe
+C:\Users\Xan\source\repos\nested loops\combinations\bin\Debug\netcoreapp3.0\combinations.deps.json
+C:\Users\Xan\source\repos\nested loops\combinations\bin\Debug\netcoreapp3.0\combinations.runtimeconfig.json
+C:\Users\Xan\source\repos\nested loops\combinations\bin\Debug\netcoreapp3.0\combinations.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\nested loops\combinations\bin\Debug\netcoreapp3.0\combinations.dll
+C:\Users\Xan\source\repos\nested loops\combinations\bin\Debug\netcoreapp3.0\combinations.pdb
+C:\Users\Xan\source\repos\nested loops\combinations\obj\Debug\netcoreapp3.0\combinations.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\nested loops\combinations\obj\Debug\netcoreapp3.0\combinations.AssemblyInfo.cs
+C:\Users\Xan\source\repos\nested loops\combinations\obj\Debug\netcoreapp3.0\combinations.dll
+C:\Users\Xan\source\repos\nested loops\combinations\obj\Debug\netcoreapp3.0\combinations.pdb

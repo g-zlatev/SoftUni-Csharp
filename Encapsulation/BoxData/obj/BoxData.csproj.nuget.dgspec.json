@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Xan\\source\\repos\\ClassBoxData\\Encapsulation\\Encapsulation.csproj": {}
+    "C:\\Users\\Xan\\source\\repos\\Encapsulation\\BoxData\\BoxData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Xan\\source\\repos\\ClassBoxData\\Encapsulation\\Encapsulation.csproj": {
+    "C:\\Users\\Xan\\source\\repos\\Encapsulation\\BoxData\\BoxData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Xan\\source\\repos\\ClassBoxData\\Encapsulation\\Encapsulation.csproj",
-        "projectName": "Encapsulation",
-        "projectPath": "C:\\Users\\Xan\\source\\repos\\ClassBoxData\\Encapsulation\\Encapsulation.csproj",
+        "projectUniqueName": "C:\\Users\\Xan\\source\\repos\\Encapsulation\\BoxData\\BoxData.csproj",
+        "projectName": "BoxData",
+        "projectPath": "C:\\Users\\Xan\\source\\repos\\Encapsulation\\BoxData\\BoxData.csproj",
         "packagesPath": "C:\\Users\\Xan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Xan\\source\\repos\\ClassBoxData\\Encapsulation\\obj\\",
+        "outputPath": "C:\\Users\\Xan\\source\\repos\\Encapsulation\\BoxData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Xan\\AppData\\Roaming\\NuGet\\NuGet.Config",

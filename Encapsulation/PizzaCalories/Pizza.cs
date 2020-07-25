@@ -50,23 +50,12 @@ namespace PizzaCalories
             }
         }
 
-        public int NumberOfToppings => toppings.Count;
-        
+        public int NumberOfToppings => this.toppings.Count;
 
-        public double TotalPizzaCalories
-        {
-            get
-            {
-                double totalCalories = dough.CalculateDoughCalories;
 
-                foreach (var topping in toppings)
-                {
-                    totalCalories += topping.ToppingCaloriesPerGram;
-                }
+        public double TotalPizzaCalories => CalculateTotalCalories();
 
-                return totalCalories;
-            }
-        }
+
 
         public void AddToping(Topping topping)
         {
@@ -74,7 +63,19 @@ namespace PizzaCalories
             {
                 throw  new ArgumentException($"Number of toppings should be in range [{ toppingsMinCount }..{ toppingsMaxCount}].");
             }
-            toppings.Add(topping);
+            this.toppings.Add(topping);
+        }
+
+        private double CalculateTotalCalories()
+        {
+            double result = dough.CalculateDoughCalories;
+
+            foreach (var topping in toppings)
+            {
+                result += topping.ToppingCaloriesPerGram;
+            }
+
+            return result;
         }
 
         public override string ToString()

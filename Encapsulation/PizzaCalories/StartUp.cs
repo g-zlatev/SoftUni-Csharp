@@ -11,7 +11,7 @@ namespace PizzaCalories
 
             try
             {
-                string[] pizzaNameInput = Console.ReadLine().Split(" ").ToArray();
+                var pizzaNameInput = Console.ReadLine().Split(" ").ToArray();
                 string pizzaName = pizzaNameInput[1];
 
                 var doughInput = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).ToArray();
@@ -28,7 +28,6 @@ namespace PizzaCalories
                     double toppingWeight = double.Parse(toppingInput[2]);
 
                     Topping topping = new Topping(toppingType, toppingWeight);
-
                     pizza.AddToping(topping);
                 }
 

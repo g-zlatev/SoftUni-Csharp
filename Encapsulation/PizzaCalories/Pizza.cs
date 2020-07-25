@@ -44,7 +44,7 @@ namespace PizzaCalories
             {
                 return this.dough;
             }
-            set
+            private set
             {
                 this.dough = value;
             }
@@ -70,7 +70,7 @@ namespace PizzaCalories
         {
             double result = dough.CalculateDoughCalories;
 
-            foreach (var topping in toppings)
+            foreach (var topping in this.toppings)
             {
                 result += topping.ToppingCaloriesPerGram;
             }

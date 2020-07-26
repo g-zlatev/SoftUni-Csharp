@@ -1,0 +1,13 @@
+C:\Users\Xan\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfaceIPerson.exe
+C:\Users\Xan\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfaceIPerson.deps.json
+C:\Users\Xan\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfaceIPerson.runtimeconfig.json
+C:\Users\Xan\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfaceIPerson.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfaceIPerson.dll
+C:\Users\Xan\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\InterfaceIPerson.pdb
+C:\Users\Xan\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfaceIPerson.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfaceIPerson.AssemblyInfo.cs
+C:\Users\Xan\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\Xan\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfaceIPerson.dll
+C:\Users\Xan\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfaceIPerson.pdb
+C:\Users\Xan\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\InterfaceIPerson.genruntimeconfig.cache

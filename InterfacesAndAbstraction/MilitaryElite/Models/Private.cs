@@ -13,8 +13,7 @@ namespace MilitaryElite.Models
 
         public override string ToString()
         {
-            return $"{}";
-            //< firstName > < lastName > Id: < id > Salary: < salary >
+            return $"{base.ToString()} Salary: {this.Salary:f2}";
         }
     }
 }

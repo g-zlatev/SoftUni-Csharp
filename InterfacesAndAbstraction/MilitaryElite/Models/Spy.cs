@@ -14,7 +14,7 @@ namespace MilitaryElite.Models
 
         public override string ToString()
         {
-            return $"Name: {this.FirstName} {this.LastName} Id: {this.Id} {Environment.NewLine} Code Number: {this.CodeNumber}";
+            return $"{base.ToString()} {Environment.NewLine} Code Number: {this.CodeNumber}";
         }
     }
 }

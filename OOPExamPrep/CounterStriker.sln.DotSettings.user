@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dc73bba3_002Dcadb_002D4b01_002D8801_002D8ccdad71813f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InvalidCapacityShouldThrowEx" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BD10D543-ECFF-43AC-A952-F0E040FA3AEC::.NETCoreApp,Version=v3.0::Robots.Tests.RobotsTests.InvalidCapacityShouldThrowEx&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BD10D543-ECFF-43AC-A952-F0E040FA3AEC::.NETCoreApp,Version=v3.0::Robots.Tests.RobotsTests.AddingRobotsWithExistingShouldThrowEx&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

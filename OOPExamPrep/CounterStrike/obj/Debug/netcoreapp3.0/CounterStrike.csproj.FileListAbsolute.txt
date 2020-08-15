@@ -1,0 +1,13 @@
+C:\Users\Xan\source\repos\OOPExamPrep\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.exe
+C:\Users\Xan\source\repos\OOPExamPrep\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.deps.json
+C:\Users\Xan\source\repos\OOPExamPrep\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.json
+C:\Users\Xan\source\repos\OOPExamPrep\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\OOPExamPrep\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.dll
+C:\Users\Xan\source\repos\OOPExamPrep\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.pdb
+C:\Users\Xan\source\repos\OOPExamPrep\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\OOPExamPrep\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\OOPExamPrep\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfo.cs
+C:\Users\Xan\source\repos\OOPExamPrep\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\Xan\source\repos\OOPExamPrep\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.dll
+C:\Users\Xan\source\repos\OOPExamPrep\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.pdb
+C:\Users\Xan\source\repos\OOPExamPrep\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.genruntimeconfig.cache

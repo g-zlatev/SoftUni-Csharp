@@ -1,0 +1,4 @@
+C:\Users\Xan\source\repos\OOPExam16.08.20\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\OOPExam16.08.20\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\OOPExam16.08.20\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+C:\Users\Xan\source\repos\OOPExam16.08.20\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache

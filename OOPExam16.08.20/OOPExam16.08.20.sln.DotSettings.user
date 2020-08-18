@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ece1e84e_002Debbb_002D4b6e_002D959c_002Df7c671e0c511/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddingValidationWorksCorrectlyInvalidArgs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CD5E2668-7FF3-4A86-A48F-0ACA2CD5B32E::.NETCoreApp,Version=v3.1::Computers.Tests.Tests.AddingValidationWorksCorrectlyInvalidArgs&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

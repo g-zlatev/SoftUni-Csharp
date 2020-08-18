@@ -1,0 +1,13 @@
+C:\Users\Xan\source\repos\OOPExam16.08.20\Computers\bin\Debug\netcoreapp3.1\Computers.exe
+C:\Users\Xan\source\repos\OOPExam16.08.20\Computers\bin\Debug\netcoreapp3.1\Computers.deps.json
+C:\Users\Xan\source\repos\OOPExam16.08.20\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+C:\Users\Xan\source\repos\OOPExam16.08.20\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+C:\Users\Xan\source\repos\OOPExam16.08.20\Computers\bin\Debug\netcoreapp3.1\Computers.dll
+C:\Users\Xan\source\repos\OOPExam16.08.20\Computers\bin\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\Xan\source\repos\OOPExam16.08.20\Computers\obj\Debug\netcoreapp3.1\Computers.csprojAssemblyReference.cache
+C:\Users\Xan\source\repos\OOPExam16.08.20\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+C:\Users\Xan\source\repos\OOPExam16.08.20\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+C:\Users\Xan\source\repos\OOPExam16.08.20\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.CoreCompileInputs.cache
+C:\Users\Xan\source\repos\OOPExam16.08.20\Computers\obj\Debug\netcoreapp3.1\Computers.dll
+C:\Users\Xan\source\repos\OOPExam16.08.20\Computers\obj\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\Xan\source\repos\OOPExam16.08.20\Computers\obj\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache

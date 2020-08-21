@@ -26,6 +26,7 @@ namespace OnlineShop.Models.Products.Computers
             this.peripherals = new List<IPeripheral>();
         }
 
+
         public IReadOnlyCollection<IComponent> Components => components;
 
         public IReadOnlyCollection<IPeripheral> Peripherals => peripherals;

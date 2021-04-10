@@ -51,6 +51,7 @@
                 .ToList()
                 .OrderByDescending(x => x.Pages)
                 .ThenByDescending(x => x.PublishedOn)
+                .Take(10)
                 .Select(b => new ExportBookDto
                 {
                     Name = b.Name,
